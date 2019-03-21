@@ -4,6 +4,8 @@ export interface EmojiAutocompleteProps { }
 
 export default class EmojiAutocomplete extends React.Component<EmojiAutocompleteProps, {}> {
     render() {
-        return <h1>Hello, World!</h1>;
-    }
+        return (
+            <h1>Hello, World!</h1>
+        );
+    };
 }
