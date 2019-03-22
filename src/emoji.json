@@ -1,0 +1,5382 @@
+[
+    {
+        "code": "0x1f600",
+        "name": "grinning"
+    },
+    {
+        "code": "0x1f601",
+        "name": "grin"
+    },
+    {
+        "code": "0x1f602",
+        "name": "joy"
+    },
+    {
+        "code": "0x1f603",
+        "name": "smiley"
+    },
+    {
+        "code": "0x1f604",
+        "name": "smile"
+    },
+    {
+        "code": "0x1f605",
+        "name": "sweat smile"
+    },
+    {
+        "code": "0x1f606",
+        "name": "laughing"
+    },
+    {
+        "code": "0x1f606",
+        "name": "satisfied"
+    },
+    {
+        "code": "0x1f607",
+        "name": "innocent"
+    },
+    {
+        "code": "0x1f608",
+        "name": "smiling imp"
+    },
+    {
+        "code": "0x1f609",
+        "name": "wink"
+    },
+    {
+        "code": "0x1f60a",
+        "name": "blush"
+    },
+    {
+        "code": "0x1f60b",
+        "name": "yum"
+    },
+    {
+        "code": "0x1f60c",
+        "name": "relieved"
+    },
+    {
+        "code": "0x1f60d",
+        "name": "heart eyes"
+    },
+    {
+        "code": "0x1f60e",
+        "name": "sunglasses"
+    },
+    {
+        "code": "0x1f60f",
+        "name": "smirk"
+    },
+    {
+        "code": "0x1f610",
+        "name": "neutral face"
+    },
+    {
+        "code": "0x1f611",
+        "name": "expressionless"
+    },
+    {
+        "code": "0x1f612",
+        "name": "unamused"
+    },
+    {
+        "code": "0x1f613",
+        "name": "sweat"
+    },
+    {
+        "code": "0x1f614",
+        "name": "pensive"
+    },
+    {
+        "code": "0x1f615",
+        "name": "confused"
+    },
+    {
+        "code": "0x1f616",
+        "name": "confounded"
+    },
+    {
+        "code": "0x1f617",
+        "name": "kissing"
+    },
+    {
+        "code": "0x1f618",
+        "name": "kissing heart"
+    },
+    {
+        "code": "0x1f619",
+        "name": "kissing smiling eyes"
+    },
+    {
+        "code": "0x1f61a",
+        "name": "kissing closed eyes"
+    },
+    {
+        "code": "0x1f61b",
+        "name": "stuck out tongue"
+    },
+    {
+        "code": "0x1f61c",
+        "name": "stuck out tongue winking eye"
+    },
+    {
+        "code": "0x1f61d",
+        "name": "stuck out tongue closed eyes"
+    },
+    {
+        "code": "0x1f61e",
+        "name": "disappointed"
+    },
+    {
+        "code": "0x1f61f",
+        "name": "worried"
+    },
+    {
+        "code": "0x1f620",
+        "name": "angry"
+    },
+    {
+        "code": "0x1f621",
+        "name": "rage"
+    },
+    {
+        "code": "0x1f622",
+        "name": "cry"
+    },
+    {
+        "code": "0x1f623",
+        "name": "persevere"
+    },
+    {
+        "code": "0x1f624",
+        "name": "triumph"
+    },
+    {
+        "code": "0x1f625",
+        "name": "disappointed relieved"
+    },
+    {
+        "code": "0x1f626",
+        "name": "frowning"
+    },
+    {
+        "code": "0x1f627",
+        "name": "anguished"
+    },
+    {
+        "code": "0x1f628",
+        "name": "fearful"
+    },
+    {
+        "code": "0x1f629",
+        "name": "weary"
+    },
+    {
+        "code": "0x1f62a",
+        "name": "sleepy"
+    },
+    {
+        "code": "0x1f62b",
+        "name": "tired face"
+    },
+    {
+        "code": "0x1f62c",
+        "name": "grimacing"
+    },
+    {
+        "code": "0x1f62d",
+        "name": "sob"
+    },
+    {
+        "code": "0x1f62e",
+        "name": "open mouth"
+    },
+    {
+        "code": "0x1f62f",
+        "name": "hushed"
+    },
+    {
+        "code": "0x1f630",
+        "name": "cold sweat"
+    },
+    {
+        "code": "0x1f631",
+        "name": "scream"
+    },
+    {
+        "code": "0x1f632",
+        "name": "astonished"
+    },
+    {
+        "code": "0x1f633",
+        "name": "flushed"
+    },
+    {
+        "code": "0x1f634",
+        "name": "sleeping"
+    },
+    {
+        "code": "0x1f635",
+        "name": "dizzy face"
+    },
+    {
+        "code": "0x1f636",
+        "name": "no mouth"
+    },
+    {
+        "code": "0x1f637",
+        "name": "mask"
+    },
+    {
+        "code": "0x1f638",
+        "name": "smile cat"
+    },
+    {
+        "code": "0x1f639",
+        "name": "joy cat"
+    },
+    {
+        "code": "0x1f63a",
+        "name": "smiley cat"
+    },
+    {
+        "code": "0x1f63b",
+        "name": "heart eyes cat"
+    },
+    {
+        "code": "0x1f63c",
+        "name": "smirk cat"
+    },
+    {
+        "code": "0x1f63d",
+        "name": "kissing cat"
+    },
+    {
+        "code": "0x1f63e",
+        "name": "pouting cat"
+    },
+    {
+        "code": "0x1f63f",
+        "name": "crying cat face"
+    },
+    {
+        "code": "0x1f640",
+        "name": "scream cat"
+    },
+    {
+        "code": "0x1f641",
+        "name": "slightly frowning face"
+    },
+    {
+        "code": "0x1f642",
+        "name": "slightly smiling face"
+    },
+    {
+        "code": "0x1f642",
+        "name": "simple smile"
+    },
+    {
+        "code": "0x1f643",
+        "name": "upside down face"
+    },
+    {
+        "code": "0x1f644",
+        "name": "face with rolling eyes"
+    },
+    {
+        "code": "0x1f645",
+        "name": "no good"
+    },
+    {
+        "code": "0x1f646",
+        "name": "ok woman"
+    },
+    {
+        "code": "0x1f647",
+        "name": "bow"
+    },
+    {
+        "code": "0x1f648",
+        "name": "see no evil"
+    },
+    {
+        "code": "0x1f649",
+        "name": "hear no evil"
+    },
+    {
+        "code": "0x1f64a",
+        "name": "speak no evil"
+    },
+    {
+        "code": "0x1f64b",
+        "name": "raising hand"
+    },
+    {
+        "code": "0x1f64c",
+        "name": "raised hands"
+    },
+    {
+        "code": "0x1f64d",
+        "name": "person frowning"
+    },
+    {
+        "code": "0x1f64e",
+        "name": "person with pouting face"
+    },
+    {
+        "code": "0x1f64f",
+        "name": "pray"
+    },
+    {
+        "code": "0x00a9",
+        "name": "copyright"
+    },
+    {
+        "code": "0x00ae",
+        "name": "registered"
+    },
+    {
+        "code": "0x203c",
+        "name": "bangbang"
+    },
+    {
+        "code": "0x2049",
+        "name": "interrobang"
+    },
+    {
+        "code": "0x2122",
+        "name": "tm"
+    },
+    {
+        "code": "0x2139",
+        "name": "information source"
+    },
+    {
+        "code": "0x2194",
+        "name": "left right arrow"
+    },
+    {
+        "code": "0x2195",
+        "name": "arrow up down"
+    },
+    {
+        "code": "0x2196",
+        "name": "arrow upper left"
+    },
+    {
+        "code": "0x2197",
+        "name": "arrow upper right"
+    },
+    {
+        "code": "0x2198",
+        "name": "arrow lower right"
+    },
+    {
+        "code": "0x2199",
+        "name": "arrow lower left"
+    },
+    {
+        "code": "0x21a9",
+        "name": "leftwards arrow with hook"
+    },
+    {
+        "code": "0x21aa",
+        "name": "arrow right hook"
+    },
+    {
+        "code": "0x231a",
+        "name": "watch"
+    },
+    {
+        "code": "0x231b",
+        "name": "hourglass"
+    },
+    {
+        "code": "0x2328",
+        "name": "codeboard"
+    },
+    {
+        "code": "0x23cf",
+        "name": "eject"
+    },
+    {
+        "code": "0x23e9",
+        "name": "fast forward"
+    },
+    {
+        "code": "0x23ea",
+        "name": "rewind"
+    },
+    {
+        "code": "0x23eb",
+        "name": "arrow double up"
+    },
+    {
+        "code": "0x23ec",
+        "name": "arrow double down"
+    },
+    {
+        "code": "0x23ed",
+        "name": "black right pointing double triangle with vertical bar"
+    },
+    {
+        "code": "0x23ee",
+        "name": "black left pointing double triangle with vertical bar"
+    },
+    {
+        "code": "0x23ef",
+        "name": "black right pointing triangle with double vertical bar"
+    },
+    {
+        "code": "0x23f0",
+        "name": "alarm clock"
+    },
+    {
+        "code": "0x23f1",
+        "name": "stopwatch"
+    },
+    {
+        "code": "0x23f2",
+        "name": "timer clock"
+    },
+    {
+        "code": "0x23f3",
+        "name": "hourglass flowing sand"
+    },
+    {
+        "code": "0x23f8",
+        "name": "double vertical bar"
+    },
+    {
+        "code": "0x23f9",
+        "name": "black square for stop"
+    },
+    {
+        "code": "0x23fa",
+        "name": "black circle for record"
+    },
+    {
+        "code": "0x24c2",
+        "name": "m"
+    },
+    {
+        "code": "0x25aa",
+        "name": "black small square"
+    },
+    {
+        "code": "0x25ab",
+        "name": "white small square"
+    },
+    {
+        "code": "0x25b6",
+        "name": "arrow forward"
+    },
+    {
+        "code": "0x25c0",
+        "name": "arrow backward"
+    },
+    {
+        "code": "0x25fb",
+        "name": "white medium square"
+    },
+    {
+        "code": "0x25fc",
+        "name": "black medium square"
+    },
+    {
+        "code": "0x25fd",
+        "name": "white medium small square"
+    },
+    {
+        "code": "0x25fe",
+        "name": "black medium small square"
+    },
+    {
+        "code": "0x2600",
+        "name": "sunny"
+    },
+    {
+        "code": "0x2601",
+        "name": "cloud"
+    },
+    {
+        "code": "0x2602",
+        "name": "umbrella"
+    },
+    {
+        "code": "0x2603",
+        "name": "snowman"
+    },
+    {
+        "code": "0x2604",
+        "name": "comet"
+    },
+    {
+        "code": "0x260e",
+        "name": "phone"
+    },
+    {
+        "code": "0x260e",
+        "name": "telephone"
+    },
+    {
+        "code": "0x2611",
+        "name": "ballot box with check"
+    },
+    {
+        "code": "0x2614",
+        "name": "umbrella with rain drops"
+    },
+    {
+        "code": "0x2615",
+        "name": "coffee"
+    },
+    {
+        "code": "0x2618",
+        "name": "shamrock"
+    },
+    {
+        "code": "0x261d",
+        "name": "point up"
+    },
+    {
+        "code": "0x2620",
+        "name": "skull and crossbones"
+    },
+    {
+        "code": "0x2622",
+        "name": "radioactive sign"
+    },
+    {
+        "code": "0x2623",
+        "name": "biohazard sign"
+    },
+    {
+        "code": "0x2626",
+        "name": "orthodox cross"
+    },
+    {
+        "code": "0x262a",
+        "name": "star and crescent"
+    },
+    {
+        "code": "0x262e",
+        "name": "peace symbol"
+    },
+    {
+        "code": "0x262f",
+        "name": "yin yang"
+    },
+    {
+        "code": "0x2638",
+        "name": "wheel of dharma"
+    },
+    {
+        "code": "0x2639",
+        "name": "white frowning face"
+    },
+    {
+        "code": "0x263a",
+        "name": "relaxed"
+    },
+    {
+        "code": "0x2648",
+        "name": "aries"
+    },
+    {
+        "code": "0x2649",
+        "name": "taurus"
+    },
+    {
+        "code": "0x264a",
+        "name": "gemini"
+    },
+    {
+        "code": "0x264b",
+        "name": "cancer"
+    },
+    {
+        "code": "0x264c",
+        "name": "leo"
+    },
+    {
+        "code": "0x264d",
+        "name": "virgo"
+    },
+    {
+        "code": "0x264e",
+        "name": "libra"
+    },
+    {
+        "code": "0x264f",
+        "name": "scorpius"
+    },
+    {
+        "code": "0x2650",
+        "name": "sagittarius"
+    },
+    {
+        "code": "0x2651",
+        "name": "capricorn"
+    },
+    {
+        "code": "0x2652",
+        "name": "aquarius"
+    },
+    {
+        "code": "0x2653",
+        "name": "pisces"
+    },
+    {
+        "code": "0x2660",
+        "name": "spades"
+    },
+    {
+        "code": "0x2663",
+        "name": "clubs"
+    },
+    {
+        "code": "0x2665",
+        "name": "hearts"
+    },
+    {
+        "code": "0x2666",
+        "name": "diamonds"
+    },
+    {
+        "code": "0x2668",
+        "name": "hotsprings"
+    },
+    {
+        "code": "0x267b",
+        "name": "recycle"
+    },
+    {
+        "code": "0x267f",
+        "name": "wheelchair"
+    },
+    {
+        "code": "0x2692",
+        "name": "hammer and pick"
+    },
+    {
+        "code": "0x2693",
+        "name": "anchor"
+    },
+    {
+        "code": "0x2694",
+        "name": "crossed swords"
+    },
+    {
+        "code": "0x2696",
+        "name": "scales"
+    },
+    {
+        "code": "0x2697",
+        "name": "alembic"
+    },
+    {
+        "code": "0x2699",
+        "name": "gear"
+    },
+    {
+        "code": "0x269b",
+        "name": "atom symbol"
+    },
+    {
+        "code": "0x269c",
+        "name": "fleur de lis"
+    },
+    {
+        "code": "0x26a0",
+        "name": "warning"
+    },
+    {
+        "code": "0x26a1",
+        "name": "zap"
+    },
+    {
+        "code": "0x26aa",
+        "name": "white circle"
+    },
+    {
+        "code": "0x26ab",
+        "name": "black circle"
+    },
+    {
+        "code": "0x26b0",
+        "name": "coffin"
+    },
+    {
+        "code": "0x26b1",
+        "name": "funeral urn"
+    },
+    {
+        "code": "0x26bd",
+        "name": "soccer"
+    },
+    {
+        "code": "0x26be",
+        "name": "baseball"
+    },
+    {
+        "code": "0x26c4",
+        "name": "snowman without snow"
+    },
+    {
+        "code": "0x26c5",
+        "name": "partly sunny"
+    },
+    {
+        "code": "0x26c8",
+        "name": "thunder cloud and rain"
+    },
+    {
+        "code": "0x26ce",
+        "name": "ophiuchus"
+    },
+    {
+        "code": "0x26cf",
+        "name": "pick"
+    },
+    {
+        "code": "0x26d1",
+        "name": "helmet with white cross"
+    },
+    {
+        "code": "0x26d3",
+        "name": "chains"
+    },
+    {
+        "code": "0x26d4",
+        "name": "no entry"
+    },
+    {
+        "code": "0x26e9",
+        "name": "shinto shrine"
+    },
+    {
+        "code": "0x26ea",
+        "name": "church"
+    },
+    {
+        "code": "0x26f0",
+        "name": "mountain"
+    },
+    {
+        "code": "0x26f1",
+        "name": "umbrella on ground"
+    },
+    {
+        "code": "0x26f2",
+        "name": "fountain"
+    },
+    {
+        "code": "0x26f3",
+        "name": "golf"
+    },
+    {
+        "code": "0x26f4",
+        "name": "ferry"
+    },
+    {
+        "code": "0x26f5",
+        "name": "boat"
+    },
+    {
+        "code": "0x26f5",
+        "name": "sailboat"
+    },
+    {
+        "code": "0x26f7",
+        "name": "skier"
+    },
+    {
+        "code": "0x26f8",
+        "name": "ice skate"
+    },
+    {
+        "code": "0x26f9",
+        "name": "person with ball"
+    },
+    {
+        "code": "0x26fa",
+        "name": "tent"
+    },
+    {
+        "code": "0x26fd",
+        "name": "fuelpump"
+    },
+    {
+        "code": "0x2702",
+        "name": "scissors"
+    },
+    {
+        "code": "0x2705",
+        "name": "white check mark"
+    },
+    {
+        "code": "0x2708",
+        "name": "airplane"
+    },
+    {
+        "code": "0x2709",
+        "name": "email"
+    },
+    {
+        "code": "0x2709",
+        "name": "envelope"
+    },
+    {
+        "code": "0x270a",
+        "name": "fist"
+    },
+    {
+        "code": "0x270b",
+        "name": "hand"
+    },
+    {
+        "code": "0x270b",
+        "name": "raised hand"
+    },
+    {
+        "code": "0x270c",
+        "name": "v"
+    },
+    {
+        "code": "0x270d",
+        "name": "writing hand"
+    },
+    {
+        "code": "0x270f",
+        "name": "pencil2"
+    },
+    {
+        "code": "0x2712",
+        "name": "black nib"
+    },
+    {
+        "code": "0x2714",
+        "name": "heavy check mark"
+    },
+    {
+        "code": "0x2716",
+        "name": "heavy multiplication x"
+    },
+    {
+        "code": "0x271d",
+        "name": "latin cross"
+    },
+    {
+        "code": "0x2721",
+        "name": "star of david"
+    },
+    {
+        "code": "0x2728",
+        "name": "sparkles"
+    },
+    {
+        "code": "0x2733",
+        "name": "eight spoked asterisk"
+    },
+    {
+        "code": "0x2734",
+        "name": "eight pointed black star"
+    },
+    {
+        "code": "0x2744",
+        "name": "snowflake"
+    },
+    {
+        "code": "0x2747",
+        "name": "sparkle"
+    },
+    {
+        "code": "0x274c",
+        "name": "x"
+    },
+    {
+        "code": "0x274e",
+        "name": "negative squared cross mark"
+    },
+    {
+        "code": "0x2753",
+        "name": "question"
+    },
+    {
+        "code": "0x2754",
+        "name": "grey question"
+    },
+    {
+        "code": "0x2755",
+        "name": "grey exclamation"
+    },
+    {
+        "code": "0x2757",
+        "name": "exclamation"
+    },
+    {
+        "code": "0x2757",
+        "name": "heavy exclamation mark"
+    },
+    {
+        "code": "0x2763",
+        "name": "heavy heart exclamation mark ornament"
+    },
+    {
+        "code": "0x2764",
+        "name": "heart"
+    },
+    {
+        "code": "0x2795",
+        "name": "heavy plus sign"
+    },
+    {
+        "code": "0x2796",
+        "name": "heavy minus sign"
+    },
+    {
+        "code": "0x2797",
+        "name": "heavy division sign"
+    },
+    {
+        "code": "0x27a1",
+        "name": "arrow right"
+    },
+    {
+        "code": "0x27b0",
+        "name": "curly loop"
+    },
+    {
+        "code": "0x27bf",
+        "name": "loop"
+    },
+    {
+        "code": "0x2934",
+        "name": "arrow heading up"
+    },
+    {
+        "code": "0x2935",
+        "name": "arrow heading down"
+    },
+    {
+        "code": "0x2b05",
+        "name": "arrow left"
+    },
+    {
+        "code": "0x2b06",
+        "name": "arrow up"
+    },
+    {
+        "code": "0x2b07",
+        "name": "arrow down"
+    },
+    {
+        "code": "0x2b1b",
+        "name": "black large square"
+    },
+    {
+        "code": "0x2b1c",
+        "name": "white large square"
+    },
+    {
+        "code": "0x2b50",
+        "name": "star"
+    },
+    {
+        "code": "0x2b55",
+        "name": "o"
+    },
+    {
+        "code": "0x3030",
+        "name": "wavy dash"
+    },
+    {
+        "code": "0x303d",
+        "name": "part alternation mark"
+    },
+    {
+        "code": "0x3297",
+        "name": "congratulations"
+    },
+    {
+        "code": "0x3299",
+        "name": "secret"
+    },
+    {
+        "code": "0x1f004",
+        "name": "mahjong"
+    },
+    {
+        "code": "0x1f0cf",
+        "name": "black joker"
+    },
+    {
+        "code": "0x1f170",
+        "name": "a"
+    },
+    {
+        "code": "0x1f171",
+        "name": "b"
+    },
+    {
+        "code": "0x1f17e",
+        "name": "o2"
+    },
+    {
+        "code": "0x1f17f",
+        "name": "parking"
+    },
+    {
+        "code": "0x1f18e",
+        "name": "ab"
+    },
+    {
+        "code": "0x1f191",
+        "name": "cl"
+    },
+    {
+        "code": "0x1f192",
+        "name": "cool"
+    },
+    {
+        "code": "0x1f193",
+        "name": "free"
+    },
+    {
+        "code": "0x1f194",
+        "name": "id"
+    },
+    {
+        "code": "0x1f195",
+        "name": "new"
+    },
+    {
+        "code": "0x1f196",
+        "name": "ng"
+    },
+    {
+        "code": "0x1f197",
+        "name": "ok"
+    },
+    {
+        "code": "0x1f198",
+        "name": "sos"
+    },
+    {
+        "code": "0x1f199",
+        "name": "up"
+    },
+    {
+        "code": "0x1f19a",
+        "name": "vs"
+    },
+    {
+        "code": "0x1f201",
+        "name": "koko"
+    },
+    {
+        "code": "0x1f202",
+        "name": "sa"
+    },
+    {
+        "code": "0x1f21a",
+        "name": "u7121"
+    },
+    {
+        "code": "0x1f22f",
+        "name": "u6307"
+    },
+    {
+        "code": "0x1f232",
+        "name": "u7981"
+    },
+    {
+        "code": "0x1f233",
+        "name": "u7a7a"
+    },
+    {
+        "code": "0x1f234",
+        "name": "u5408"
+    },
+    {
+        "code": "0x1f235",
+        "name": "u6e80"
+    },
+    {
+        "code": "0x1f236",
+        "name": "u6709"
+    },
+    {
+        "code": "0x1f237",
+        "name": "u6708"
+    },
+    {
+        "code": "0x1f238",
+        "name": "u7533"
+    },
+    {
+        "code": "0x1f239",
+        "name": "u5272"
+    },
+    {
+        "code": "0x1f23a",
+        "name": "u55b6"
+    },
+    {
+        "code": "0x1f250",
+        "name": "ideograph advantage"
+    },
+    {
+        "code": "0x1f251",
+        "name": "accept"
+    },
+    {
+        "code": "0x1f300",
+        "name": "cyclone"
+    },
+    {
+        "code": "0x1f301",
+        "name": "foggy"
+    },
+    {
+        "code": "0x1f302",
+        "name": "closed umbrella"
+    },
+    {
+        "code": "0x1f303",
+        "name": "night with stars"
+    },
+    {
+        "code": "0x1f304",
+        "name": "sunrise over mountains"
+    },
+    {
+        "code": "0x1f305",
+        "name": "sunrise"
+    },
+    {
+        "code": "0x1f306",
+        "name": "city sunset"
+    },
+    {
+        "code": "0x1f307",
+        "name": "city sunrise"
+    },
+    {
+        "code": "0x1f308",
+        "name": "rainbow"
+    },
+    {
+        "code": "0x1f309",
+        "name": "bridge at night"
+    },
+    {
+        "code": "0x1f30a",
+        "name": "ocean"
+    },
+    {
+        "code": "0x1f30b",
+        "name": "volcano"
+    },
+    {
+        "code": "0x1f30c",
+        "name": "milky way"
+    },
+    {
+        "code": "0x1f30d",
+        "name": "earth africa"
+    },
+    {
+        "code": "0x1f30e",
+        "name": "earth americas"
+    },
+    {
+        "code": "0x1f30f",
+        "name": "earth asia"
+    },
+    {
+        "code": "0x1f310",
+        "name": "globe with meridians"
+    },
+    {
+        "code": "0x1f311",
+        "name": "new moon"
+    },
+    {
+        "code": "0x1f312",
+        "name": "waxing crescent moon"
+    },
+    {
+        "code": "0x1f313",
+        "name": "first quarter moon"
+    },
+    {
+        "code": "0x1f314",
+        "name": "moon"
+    },
+    {
+        "code": "0x1f314",
+        "name": "waxing gibbous moon"
+    },
+    {
+        "code": "0x1f315",
+        "name": "full moon"
+    },
+    {
+        "code": "0x1f316",
+        "name": "waning gibbous moon"
+    },
+    {
+        "code": "0x1f317",
+        "name": "last quarter moon"
+    },
+    {
+        "code": "0x1f318",
+        "name": "waning crescent moon"
+    },
+    {
+        "code": "0x1f319",
+        "name": "crescent moon"
+    },
+    {
+        "code": "0x1f31a",
+        "name": "new moon with face"
+    },
+    {
+        "code": "0x1f31b",
+        "name": "first quarter moon with face"
+    },
+    {
+        "code": "0x1f31c",
+        "name": "last quarter moon with face"
+    },
+    {
+        "code": "0x1f31d",
+        "name": "full moon with face"
+    },
+    {
+        "code": "0x1f31e",
+        "name": "sun with face"
+    },
+    {
+        "code": "0x1f31f",
+        "name": "star2"
+    },
+    {
+        "code": "0x1f320",
+        "name": "stars"
+    },
+    {
+        "code": "0x1f321",
+        "name": "thermometer"
+    },
+    {
+        "code": "0x1f324",
+        "name": "mostly sunny"
+    },
+    {
+        "code": "0x1f324",
+        "name": "sun small cloud"
+    },
+    {
+        "code": "0x1f325",
+        "name": "barely sunny"
+    },
+    {
+        "code": "0x1f325",
+        "name": "sun behind cloud"
+    },
+    {
+        "code": "0x1f326",
+        "name": "partly sunny rain"
+    },
+    {
+        "code": "0x1f326",
+        "name": "sun behind rain cloud"
+    },
+    {
+        "code": "0x1f327",
+        "name": "rain cloud"
+    },
+    {
+        "code": "0x1f328",
+        "name": "snow cloud"
+    },
+    {
+        "code": "0x1f329",
+        "name": "lightning"
+    },
+    {
+        "code": "0x1f329",
+        "name": "lightning cloud"
+    },
+    {
+        "code": "0x1f32a",
+        "name": "tornado"
+    },
+    {
+        "code": "0x1f32a",
+        "name": "tornado cloud"
+    },
+    {
+        "code": "0x1f32b",
+        "name": "fog"
+    },
+    {
+        "code": "0x1f32c",
+        "name": "wind blowing face"
+    },
+    {
+        "code": "0x1f32d",
+        "name": "hotdog"
+    },
+    {
+        "code": "0x1f32e",
+        "name": "taco"
+    },
+    {
+        "code": "0x1f32f",
+        "name": "burrito"
+    },
+    {
+        "code": "0x1f330",
+        "name": "chestnut"
+    },
+    {
+        "code": "0x1f331",
+        "name": "seedling"
+    },
+    {
+        "code": "0x1f332",
+        "name": "evergreen tree"
+    },
+    {
+        "code": "0x1f333",
+        "name": "deciduous tree"
+    },
+    {
+        "code": "0x1f334",
+        "name": "palm tree"
+    },
+    {
+        "code": "0x1f335",
+        "name": "cactus"
+    },
+    {
+        "code": "0x1f336",
+        "name": "hot pepper"
+    },
+    {
+        "code": "0x1f337",
+        "name": "tulip"
+    },
+    {
+        "code": "0x1f338",
+        "name": "cherry blossom"
+    },
+    {
+        "code": "0x1f339",
+        "name": "rose"
+    },
+    {
+        "code": "0x1f33a",
+        "name": "hibiscus"
+    },
+    {
+        "code": "0x1f33b",
+        "name": "sunflower"
+    },
+    {
+        "code": "0x1f33c",
+        "name": "blossom"
+    },
+    {
+        "code": "0x1f33d",
+        "name": "corn"
+    },
+    {
+        "code": "0x1f33e",
+        "name": "ear of rice"
+    },
+    {
+        "code": "0x1f33f",
+        "name": "herb"
+    },
+    {
+        "code": "0x1f340",
+        "name": "four leaf clover"
+    },
+    {
+        "code": "0x1f341",
+        "name": "maple leaf"
+    },
+    {
+        "code": "0x1f342",
+        "name": "fallen leaf"
+    },
+    {
+        "code": "0x1f343",
+        "name": "leaves"
+    },
+    {
+        "code": "0x1f344",
+        "name": "mushroom"
+    },
+    {
+        "code": "0x1f345",
+        "name": "tomato"
+    },
+    {
+        "code": "0x1f346",
+        "name": "eggplant"
+    },
+    {
+        "code": "0x1f347",
+        "name": "grapes"
+    },
+    {
+        "code": "0x1f348",
+        "name": "melon"
+    },
+    {
+        "code": "0x1f349",
+        "name": "watermelon"
+    },
+    {
+        "code": "0x1f34a",
+        "name": "tangerine"
+    },
+    {
+        "code": "0x1f34b",
+        "name": "lemon"
+    },
+    {
+        "code": "0x1f34c",
+        "name": "banana"
+    },
+    {
+        "code": "0x1f34d",
+        "name": "pineapple"
+    },
+    {
+        "code": "0x1f34e",
+        "name": "apple"
+    },
+    {
+        "code": "0x1f34f",
+        "name": "green apple"
+    },
+    {
+        "code": "0x1f350",
+        "name": "pear"
+    },
+    {
+        "code": "0x1f351",
+        "name": "peach"
+    },
+    {
+        "code": "0x1f352",
+        "name": "cherries"
+    },
+    {
+        "code": "0x1f353",
+        "name": "strawberry"
+    },
+    {
+        "code": "0x1f354",
+        "name": "hamburger"
+    },
+    {
+        "code": "0x1f355",
+        "name": "pizza"
+    },
+    {
+        "code": "0x1f356",
+        "name": "meat on bone"
+    },
+    {
+        "code": "0x1f357",
+        "name": "poultry leg"
+    },
+    {
+        "code": "0x1f358",
+        "name": "rice cracker"
+    },
+    {
+        "code": "0x1f359",
+        "name": "rice ball"
+    },
+    {
+        "code": "0x1f35a",
+        "name": "rice"
+    },
+    {
+        "code": "0x1f35b",
+        "name": "curry"
+    },
+    {
+        "code": "0x1f35c",
+        "name": "ramen"
+    },
+    {
+        "code": "0x1f35d",
+        "name": "spaghetti"
+    },
+    {
+        "code": "0x1f35e",
+        "name": "bread"
+    },
+    {
+        "code": "0x1f35f",
+        "name": "fries"
+    },
+    {
+        "code": "0x1f360",
+        "name": "sweet potato"
+    },
+    {
+        "code": "0x1f361",
+        "name": "dango"
+    },
+    {
+        "code": "0x1f362",
+        "name": "oden"
+    },
+    {
+        "code": "0x1f363",
+        "name": "sushi"
+    },
+    {
+        "code": "0x1f364",
+        "name": "fried shrimp"
+    },
+    {
+        "code": "0x1f365",
+        "name": "fish cake"
+    },
+    {
+        "code": "0x1f366",
+        "name": "icecream"
+    },
+    {
+        "code": "0x1f367",
+        "name": "shaved ice"
+    },
+    {
+        "code": "0x1f368",
+        "name": "ice cream"
+    },
+    {
+        "code": "0x1f369",
+        "name": "doughnut"
+    },
+    {
+        "code": "0x1f36a",
+        "name": "cookie"
+    },
+    {
+        "code": "0x1f36b",
+        "name": "chocolate bar"
+    },
+    {
+        "code": "0x1f36c",
+        "name": "candy"
+    },
+    {
+        "code": "0x1f36d",
+        "name": "lollipop"
+    },
+    {
+        "code": "0x1f36e",
+        "name": "custard"
+    },
+    {
+        "code": "0x1f36f",
+        "name": "honey pot"
+    },
+    {
+        "code": "0x1f370",
+        "name": "cake"
+    },
+    {
+        "code": "0x1f371",
+        "name": "bento"
+    },
+    {
+        "code": "0x1f372",
+        "name": "stew"
+    },
+    {
+        "code": "0x1f373",
+        "name": "egg"
+    },
+    {
+        "code": "0x1f374",
+        "name": "fork and knife"
+    },
+    {
+        "code": "0x1f375",
+        "name": "tea"
+    },
+    {
+        "code": "0x1f376",
+        "name": "sake"
+    },
+    {
+        "code": "0x1f377",
+        "name": "wine glass"
+    },
+    {
+        "code": "0x1f378",
+        "name": "cocktail"
+    },
+    {
+        "code": "0x1f379",
+        "name": "tropical drink"
+    },
+    {
+        "code": "0x1f37a",
+        "name": "beer"
+    },
+    {
+        "code": "0x1f37b",
+        "name": "beers"
+    },
+    {
+        "code": "0x1f37c",
+        "name": "baby bottle"
+    },
+    {
+        "code": "0x1f37d",
+        "name": "knife fork plate"
+    },
+    {
+        "code": "0x1f37e",
+        "name": "champagne"
+    },
+    {
+        "code": "0x1f37f",
+        "name": "popcorn"
+    },
+    {
+        "code": "0x1f380",
+        "name": "ribbon"
+    },
+    {
+        "code": "0x1f381",
+        "name": "gift"
+    },
+    {
+        "code": "0x1f382",
+        "name": "birthday"
+    },
+    {
+        "code": "0x1f383",
+        "name": "jack o lantern"
+    },
+    {
+        "code": "0x1f384",
+        "name": "christmas tree"
+    },
+    {
+        "code": "0x1f385",
+        "name": "santa"
+    },
+    {
+        "code": "0x1f386",
+        "name": "fireworks"
+    },
+    {
+        "code": "0x1f387",
+        "name": "sparkler"
+    },
+    {
+        "code": "0x1f388",
+        "name": "balloon"
+    },
+    {
+        "code": "0x1f389",
+        "name": "tada"
+    },
+    {
+        "code": "0x1f38a",
+        "name": "confetti ball"
+    },
+    {
+        "code": "0x1f38b",
+        "name": "tanabata tree"
+    },
+    {
+        "code": "0x1f38c",
+        "name": "crossed flags"
+    },
+    {
+        "code": "0x1f38d",
+        "name": "bamboo"
+    },
+    {
+        "code": "0x1f38e",
+        "name": "dolls"
+    },
+    {
+        "code": "0x1f38f",
+        "name": "flags"
+    },
+    {
+        "code": "0x1f390",
+        "name": "wind chime"
+    },
+    {
+        "code": "0x1f391",
+        "name": "rice scene"
+    },
+    {
+        "code": "0x1f392",
+        "name": "school satchel"
+    },
+    {
+        "code": "0x1f393",
+        "name": "mortar board"
+    },
+    {
+        "code": "0x1f396",
+        "name": "medal"
+    },
+    {
+        "code": "0x1f397",
+        "name": "reminder ribbon"
+    },
+    {
+        "code": "0x1f399",
+        "name": "studio microphone"
+    },
+    {
+        "code": "0x1f39a",
+        "name": "level slider"
+    },
+    {
+        "code": "0x1f39b",
+        "name": "control knobs"
+    },
+    {
+        "code": "0x1f39e",
+        "name": "film frames"
+    },
+    {
+        "code": "0x1f39f",
+        "name": "admission tickets"
+    },
+    {
+        "code": "0x1f3a0",
+        "name": "carousel horse"
+    },
+    {
+        "code": "0x1f3a1",
+        "name": "ferris wheel"
+    },
+    {
+        "code": "0x1f3a2",
+        "name": "roller coaster"
+    },
+    {
+        "code": "0x1f3a3",
+        "name": "fishing pole and fish"
+    },
+    {
+        "code": "0x1f3a4",
+        "name": "microphone"
+    },
+    {
+        "code": "0x1f3a5",
+        "name": "movie camera"
+    },
+    {
+        "code": "0x1f3a6",
+        "name": "cinema"
+    },
+    {
+        "code": "0x1f3a7",
+        "name": "headphones"
+    },
+    {
+        "code": "0x1f3a8",
+        "name": "art"
+    },
+    {
+        "code": "0x1f3a9",
+        "name": "tophat"
+    },
+    {
+        "code": "0x1f3aa",
+        "name": "circus tent"
+    },
+    {
+        "code": "0x1f3ab",
+        "name": "ticket"
+    },
+    {
+        "code": "0x1f3ac",
+        "name": "clapper"
+    },
+    {
+        "code": "0x1f3ad",
+        "name": "performing arts"
+    },
+    {
+        "code": "0x1f3ae",
+        "name": "video game"
+    },
+    {
+        "code": "0x1f3af",
+        "name": "dart"
+    },
+    {
+        "code": "0x1f3b0",
+        "name": "slot machine"
+    },
+    {
+        "code": "0x1f3b1",
+        "name": "8ball"
+    },
+    {
+        "code": "0x1f3b2",
+        "name": "game die"
+    },
+    {
+        "code": "0x1f3b3",
+        "name": "bowling"
+    },
+    {
+        "code": "0x1f3b4",
+        "name": "flower playing cards"
+    },
+    {
+        "code": "0x1f3b5",
+        "name": "musical note"
+    },
+    {
+        "code": "0x1f3b6",
+        "name": "notes"
+    },
+    {
+        "code": "0x1f3b7",
+        "name": "saxophone"
+    },
+    {
+        "code": "0x1f3b8",
+        "name": "guitar"
+    },
+    {
+        "code": "0x1f3b9",
+        "name": "musical codeboard"
+    },
+    {
+        "code": "0x1f3ba",
+        "name": "trumpet"
+    },
+    {
+        "code": "0x1f3bb",
+        "name": "violin"
+    },
+    {
+        "code": "0x1f3bc",
+        "name": "musical score"
+    },
+    {
+        "code": "0x1f3bd",
+        "name": "running shirt with sash"
+    },
+    {
+        "code": "0x1f3be",
+        "name": "tennis"
+    },
+    {
+        "code": "0x1f3bf",
+        "name": "ski"
+    },
+    {
+        "code": "0x1f3c0",
+        "name": "basketball"
+    },
+    {
+        "code": "0x1f3c1",
+        "name": "checkered flag"
+    },
+    {
+        "code": "0x1f3c2",
+        "name": "snowboarder"
+    },
+    {
+        "code": "0x1f3c3",
+        "name": "runner"
+    },
+    {
+        "code": "0x1f3c3",
+        "name": "running"
+    },
+    {
+        "code": "0x1f3c4",
+        "name": "surfer"
+    },
+    {
+        "code": "0x1f3c5",
+        "name": "sports medal"
+    },
+    {
+        "code": "0x1f3c6",
+        "name": "trophy"
+    },
+    {
+        "code": "0x1f3c7",
+        "name": "horse racing"
+    },
+    {
+        "code": "0x1f3c8",
+        "name": "football"
+    },
+    {
+        "code": "0x1f3c9",
+        "name": "rugby football"
+    },
+    {
+        "code": "0x1f3ca",
+        "name": "swimmer"
+    },
+    {
+        "code": "0x1f3cb",
+        "name": "weight lifter"
+    },
+    {
+        "code": "0x1f3cc",
+        "name": "golfer"
+    },
+    {
+        "code": "0x1f3cd",
+        "name": "racing motorcycle"
+    },
+    {
+        "code": "0x1f3ce",
+        "name": "racing car"
+    },
+    {
+        "code": "0x1f3cf",
+        "name": "cricket bat and ball"
+    },
+    {
+        "code": "0x1f3d0",
+        "name": "volleyball"
+    },
+    {
+        "code": "0x1f3d1",
+        "name": "field hoccode stick and ball"
+    },
+    {
+        "code": "0x1f3d2",
+        "name": "ice hoccode stick and puck"
+    },
+    {
+        "code": "0x1f3d3",
+        "name": "table tennis paddle and ball"
+    },
+    {
+        "code": "0x1f3d4",
+        "name": "snow capped mountain"
+    },
+    {
+        "code": "0x1f3d5",
+        "name": "camping"
+    },
+    {
+        "code": "0x1f3d6",
+        "name": "beach with umbrella"
+    },
+    {
+        "code": "0x1f3d7",
+        "name": "building construction"
+    },
+    {
+        "code": "0x1f3d8",
+        "name": "house buildings"
+    },
+    {
+        "code": "0x1f3d9",
+        "name": "cityscape"
+    },
+    {
+        "code": "0x1f3da",
+        "name": "derelict house building"
+    },
+    {
+        "code": "0x1f3db",
+        "name": "classical building"
+    },
+    {
+        "code": "0x1f3dc",
+        "name": "desert"
+    },
+    {
+        "code": "0x1f3dd",
+        "name": "desert island"
+    },
+    {
+        "code": "0x1f3de",
+        "name": "national park"
+    },
+    {
+        "code": "0x1f3df",
+        "name": "stadium"
+    },
+    {
+        "code": "0x1f3e0",
+        "name": "house"
+    },
+    {
+        "code": "0x1f3e1",
+        "name": "house with garden"
+    },
+    {
+        "code": "0x1f3e2",
+        "name": "office"
+    },
+    {
+        "code": "0x1f3e3",
+        "name": "post office"
+    },
+    {
+        "code": "0x1f3e4",
+        "name": "european post office"
+    },
+    {
+        "code": "0x1f3e5",
+        "name": "hospital"
+    },
+    {
+        "code": "0x1f3e6",
+        "name": "bank"
+    },
+    {
+        "code": "0x1f3e7",
+        "name": "atm"
+    },
+    {
+        "code": "0x1f3e8",
+        "name": "hotel"
+    },
+    {
+        "code": "0x1f3e9",
+        "name": "love hotel"
+    },
+    {
+        "code": "0x1f3ea",
+        "name": "convenience store"
+    },
+    {
+        "code": "0x1f3eb",
+        "name": "school"
+    },
+    {
+        "code": "0x1f3ec",
+        "name": "department store"
+    },
+    {
+        "code": "0x1f3ed",
+        "name": "factory"
+    },
+    {
+        "code": "0x1f3ee",
+        "name": "izakaya lantern"
+    },
+    {
+        "code": "0x1f3ee",
+        "name": "lantern"
+    },
+    {
+        "code": "0x1f3ef",
+        "name": "japanese castle"
+    },
+    {
+        "code": "0x1f3f0",
+        "name": "european castle"
+    },
+    {
+        "code": "0x1f3f3",
+        "name": "waving white flag"
+    },
+    {
+        "code": "0x1f3f4",
+        "name": "waving black flag"
+    },
+    {
+        "code": "0x1f3f5",
+        "name": "rosette"
+    },
+    {
+        "code": "0x1f3f7",
+        "name": "label"
+    },
+    {
+        "code": "0x1f3f8",
+        "name": "badminton racquet and shuttlecock"
+    },
+    {
+        "code": "0x1f3f9",
+        "name": "bow and arrow"
+    },
+    {
+        "code": "0x1f3fa",
+        "name": "amphora"
+    },
+    {
+        "code": "0x1f3fb",
+        "name": "skin tone 2"
+    },
+    {
+        "code": "0x1f3fc",
+        "name": "skin tone 3"
+    },
+    {
+        "code": "0x1f3fd",
+        "name": "skin tone 4"
+    },
+    {
+        "code": "0x1f3fe",
+        "name": "skin tone 5"
+    },
+    {
+        "code": "0x1f3ff",
+        "name": "skin tone 6"
+    },
+    {
+        "code": "0x1f400",
+        "name": "rat"
+    },
+    {
+        "code": "0x1f401",
+        "name": "mouse2"
+    },
+    {
+        "code": "0x1f402",
+        "name": "ox"
+    },
+    {
+        "code": "0x1f403",
+        "name": "water buffalo"
+    },
+    {
+        "code": "0x1f404",
+        "name": "cow2"
+    },
+    {
+        "code": "0x1f405",
+        "name": "tiger2"
+    },
+    {
+        "code": "0x1f406",
+        "name": "leopard"
+    },
+    {
+        "code": "0x1f407",
+        "name": "rabbit2"
+    },
+    {
+        "code": "0x1f408",
+        "name": "cat2"
+    },
+    {
+        "code": "0x1f409",
+        "name": "dragon"
+    },
+    {
+        "code": "0x1f40a",
+        "name": "crocodile"
+    },
+    {
+        "code": "0x1f40b",
+        "name": "whale2"
+    },
+    {
+        "code": "0x1f40c",
+        "name": "snail"
+    },
+    {
+        "code": "0x1f40d",
+        "name": "snake"
+    },
+    {
+        "code": "0x1f40e",
+        "name": "racehorse"
+    },
+    {
+        "code": "0x1f40f",
+        "name": "ram"
+    },
+    {
+        "code": "0x1f410",
+        "name": "goat"
+    },
+    {
+        "code": "0x1f411",
+        "name": "sheep"
+    },
+    {
+        "code": "0x1f412",
+        "name": "moncode"
+    },
+    {
+        "code": "0x1f413",
+        "name": "rooster"
+    },
+    {
+        "code": "0x1f414",
+        "name": "chicken"
+    },
+    {
+        "code": "0x1f415",
+        "name": "dog2"
+    },
+    {
+        "code": "0x1f416",
+        "name": "pig2"
+    },
+    {
+        "code": "0x1f417",
+        "name": "boar"
+    },
+    {
+        "code": "0x1f418",
+        "name": "elephant"
+    },
+    {
+        "code": "0x1f419",
+        "name": "octopus"
+    },
+    {
+        "code": "0x1f41a",
+        "name": "shell"
+    },
+    {
+        "code": "0x1f41b",
+        "name": "bug"
+    },
+    {
+        "code": "0x1f41c",
+        "name": "ant"
+    },
+    {
+        "code": "0x1f41d",
+        "name": "bee"
+    },
+    {
+        "code": "0x1f41d",
+        "name": "honeybee"
+    },
+    {
+        "code": "0x1f41e",
+        "name": "beetle"
+    },
+    {
+        "code": "0x1f41f",
+        "name": "fish"
+    },
+    {
+        "code": "0x1f420",
+        "name": "tropical fish"
+    },
+    {
+        "code": "0x1f421",
+        "name": "blowfish"
+    },
+    {
+        "code": "0x1f422",
+        "name": "turtle"
+    },
+    {
+        "code": "0x1f423",
+        "name": "hatching chick"
+    },
+    {
+        "code": "0x1f424",
+        "name": "baby chick"
+    },
+    {
+        "code": "0x1f425",
+        "name": "hatched chick"
+    },
+    {
+        "code": "0x1f426",
+        "name": "bird"
+    },
+    {
+        "code": "0x1f427",
+        "name": "penguin"
+    },
+    {
+        "code": "0x1f428",
+        "name": "koala"
+    },
+    {
+        "code": "0x1f429",
+        "name": "poodle"
+    },
+    {
+        "code": "0x1f42a",
+        "name": "dromedary camel"
+    },
+    {
+        "code": "0x1f42b",
+        "name": "camel"
+    },
+    {
+        "code": "0x1f42c",
+        "name": "dolphin"
+    },
+    {
+        "code": "0x1f42c",
+        "name": "flipper"
+    },
+    {
+        "code": "0x1f42d",
+        "name": "mouse"
+    },
+    {
+        "code": "0x1f42e",
+        "name": "cow"
+    },
+    {
+        "code": "0x1f42f",
+        "name": "tiger"
+    },
+    {
+        "code": "0x1f430",
+        "name": "rabbit"
+    },
+    {
+        "code": "0x1f431",
+        "name": "cat"
+    },
+    {
+        "code": "0x1f432",
+        "name": "dragon face"
+    },
+    {
+        "code": "0x1f433",
+        "name": "whale"
+    },
+    {
+        "code": "0x1f434",
+        "name": "horse"
+    },
+    {
+        "code": "0x1f435",
+        "name": "moncode face"
+    },
+    {
+        "code": "0x1f436",
+        "name": "dog"
+    },
+    {
+        "code": "0x1f437",
+        "name": "pig"
+    },
+    {
+        "code": "0x1f438",
+        "name": "frog"
+    },
+    {
+        "code": "0x1f439",
+        "name": "hamster"
+    },
+    {
+        "code": "0x1f43a",
+        "name": "wolf"
+    },
+    {
+        "code": "0x1f43b",
+        "name": "bear"
+    },
+    {
+        "code": "0x1f43c",
+        "name": "panda face"
+    },
+    {
+        "code": "0x1f43d",
+        "name": "pig nose"
+    },
+    {
+        "code": "0x1f43e",
+        "name": "feet"
+    },
+    {
+        "code": "0x1f43e",
+        "name": "paw prints"
+    },
+    {
+        "code": "0x1f43f",
+        "name": "chipmunk"
+    },
+    {
+        "code": "0x1f440",
+        "name": "eyes"
+    },
+    {
+        "code": "0x1f441",
+        "name": "eye"
+    },
+    {
+        "code": "0x1f442",
+        "name": "ear"
+    },
+    {
+        "code": "0x1f443",
+        "name": "nose"
+    },
+    {
+        "code": "0x1f444",
+        "name": "lips"
+    },
+    {
+        "code": "0x1f445",
+        "name": "tongue"
+    },
+    {
+        "code": "0x1f446",
+        "name": "point up 2"
+    },
+    {
+        "code": "0x1f447",
+        "name": "point down"
+    },
+    {
+        "code": "0x1f448",
+        "name": "point left"
+    },
+    {
+        "code": "0x1f449",
+        "name": "point right"
+    },
+    {
+        "code": "0x1f44a",
+        "name": "facepunch"
+    },
+    {
+        "code": "0x1f44a",
+        "name": "punch"
+    },
+    {
+        "code": "0x1f44b",
+        "name": "wave"
+    },
+    {
+        "code": "0x1f44c",
+        "name": "ok hand"
+    },
+    {
+        "code": "0x1f44d",
+        "name": "+1"
+    },
+    {
+        "code": "0x1f44d",
+        "name": "thumbsup"
+    },
+    {
+        "code": "0x1f44e",
+        "name": "-1"
+    },
+    {
+        "code": "0x1f44e",
+        "name": "thumbsdown"
+    },
+    {
+        "code": "0x1f44f",
+        "name": "clap"
+    },
+    {
+        "code": "0x1f450",
+        "name": "open hands"
+    },
+    {
+        "code": "0x1f451",
+        "name": "crown"
+    },
+    {
+        "code": "0x1f452",
+        "name": "womans hat"
+    },
+    {
+        "code": "0x1f453",
+        "name": "eyeglasses"
+    },
+    {
+        "code": "0x1f454",
+        "name": "necktie"
+    },
+    {
+        "code": "0x1f455",
+        "name": "shirt"
+    },
+    {
+        "code": "0x1f455",
+        "name": "tshirt"
+    },
+    {
+        "code": "0x1f456",
+        "name": "jeans"
+    },
+    {
+        "code": "0x1f457",
+        "name": "dress"
+    },
+    {
+        "code": "0x1f458",
+        "name": "kimono"
+    },
+    {
+        "code": "0x1f459",
+        "name": "bikini"
+    },
+    {
+        "code": "0x1f45a",
+        "name": "womans clothes"
+    },
+    {
+        "code": "0x1f45b",
+        "name": "purse"
+    },
+    {
+        "code": "0x1f45c",
+        "name": "handbag"
+    },
+    {
+        "code": "0x1f45d",
+        "name": "pouch"
+    },
+    {
+        "code": "0x1f45e",
+        "name": "mans shoe"
+    },
+    {
+        "code": "0x1f45e",
+        "name": "shoe"
+    },
+    {
+        "code": "0x1f45f",
+        "name": "athletic shoe"
+    },
+    {
+        "code": "0x1f460",
+        "name": "high heel"
+    },
+    {
+        "code": "0x1f461",
+        "name": "sandal"
+    },
+    {
+        "code": "0x1f462",
+        "name": "boot"
+    },
+    {
+        "code": "0x1f463",
+        "name": "footprints"
+    },
+    {
+        "code": "0x1f464",
+        "name": "bust in silhouette"
+    },
+    {
+        "code": "0x1f465",
+        "name": "busts in silhouette"
+    },
+    {
+        "code": "0x1f466",
+        "name": "boy"
+    },
+    {
+        "code": "0x1f467",
+        "name": "girl"
+    },
+    {
+        "code": "0x1f468",
+        "name": "man"
+    },
+    {
+        "code": "0x1f469",
+        "name": "woman"
+    },
+    {
+        "code": "0x1f46a",
+        "name": "family"
+    },
+    {
+        "code": "0x1f46a",
+        "name": "man woman boy"
+    },
+    {
+        "code": "0x1f46b",
+        "name": "couple"
+    },
+    {
+        "code": "0x1f46b",
+        "name": "man and woman holding hands"
+    },
+    {
+        "code": "0x1f46c",
+        "name": "two men holding hands"
+    },
+    {
+        "code": "0x1f46d",
+        "name": "two women holding hands"
+    },
+    {
+        "code": "0x1f46e",
+        "name": "cop"
+    },
+    {
+        "code": "0x1f46f",
+        "name": "dancers"
+    },
+    {
+        "code": "0x1f470",
+        "name": "bride with veil"
+    },
+    {
+        "code": "0x1f471",
+        "name": "person with blond hair"
+    },
+    {
+        "code": "0x1f472",
+        "name": "man with gua pi mao"
+    },
+    {
+        "code": "0x1f473",
+        "name": "man with turban"
+    },
+    {
+        "code": "0x1f474",
+        "name": "older man"
+    },
+    {
+        "code": "0x1f475",
+        "name": "older woman"
+    },
+    {
+        "code": "0x1f476",
+        "name": "baby"
+    },
+    {
+        "code": "0x1f477",
+        "name": "construction worker"
+    },
+    {
+        "code": "0x1f478",
+        "name": "princess"
+    },
+    {
+        "code": "0x1f479",
+        "name": "japanese ogre"
+    },
+    {
+        "code": "0x1f47a",
+        "name": "japanese goblin"
+    },
+    {
+        "code": "0x1f47b",
+        "name": "ghost"
+    },
+    {
+        "code": "0x1f47c",
+        "name": "angel"
+    },
+    {
+        "code": "0x1f47d",
+        "name": "alien"
+    },
+    {
+        "code": "0x1f47e",
+        "name": "space invader"
+    },
+    {
+        "code": "0x1f47f",
+        "name": "imp"
+    },
+    {
+        "code": "0x1f480",
+        "name": "skull"
+    },
+    {
+        "code": "0x1f481",
+        "name": "information desk person"
+    },
+    {
+        "code": "0x1f482",
+        "name": "guardsman"
+    },
+    {
+        "code": "0x1f483",
+        "name": "dancer"
+    },
+    {
+        "code": "0x1f484",
+        "name": "lipstick"
+    },
+    {
+        "code": "0x1f485",
+        "name": "nail care"
+    },
+    {
+        "code": "0x1f486",
+        "name": "massage"
+    },
+    {
+        "code": "0x1f487",
+        "name": "haircut"
+    },
+    {
+        "code": "0x1f488",
+        "name": "barber"
+    },
+    {
+        "code": "0x1f489",
+        "name": "syringe"
+    },
+    {
+        "code": "0x1f48a",
+        "name": "pill"
+    },
+    {
+        "code": "0x1f48b",
+        "name": "kiss"
+    },
+    {
+        "code": "0x1f48c",
+        "name": "love letter"
+    },
+    {
+        "code": "0x1f48d",
+        "name": "ring"
+    },
+    {
+        "code": "0x1f48e",
+        "name": "gem"
+    },
+    {
+        "code": "0x1f48f",
+        "name": "couplekiss"
+    },
+    {
+        "code": "0x1f490",
+        "name": "bouquet"
+    },
+    {
+        "code": "0x1f491",
+        "name": "couple with heart"
+    },
+    {
+        "code": "0x1f492",
+        "name": "wedding"
+    },
+    {
+        "code": "0x1f493",
+        "name": "heartbeat"
+    },
+    {
+        "code": "0x1f494",
+        "name": "broken heart"
+    },
+    {
+        "code": "0x1f495",
+        "name": "two hearts"
+    },
+    {
+        "code": "0x1f496",
+        "name": "sparkling heart"
+    },
+    {
+        "code": "0x1f497",
+        "name": "heartpulse"
+    },
+    {
+        "code": "0x1f498",
+        "name": "cupid"
+    },
+    {
+        "code": "0x1f499",
+        "name": "blue heart"
+    },
+    {
+        "code": "0x1f49a",
+        "name": "green heart"
+    },
+    {
+        "code": "0x1f49b",
+        "name": "yellow heart"
+    },
+    {
+        "code": "0x1f49c",
+        "name": "purple heart"
+    },
+    {
+        "code": "0x1f49d",
+        "name": "gift heart"
+    },
+    {
+        "code": "0x1f49e",
+        "name": "revolving hearts"
+    },
+    {
+        "code": "0x1f49f",
+        "name": "heart decoration"
+    },
+    {
+        "code": "0x1f4a0",
+        "name": "diamond shape with a dot inside"
+    },
+    {
+        "code": "0x1f4a1",
+        "name": "bulb"
+    },
+    {
+        "code": "0x1f4a2",
+        "name": "anger"
+    },
+    {
+        "code": "0x1f4a3",
+        "name": "bomb"
+    },
+    {
+        "code": "0x1f4a4",
+        "name": "zzz"
+    },
+    {
+        "code": "0x1f4a5",
+        "name": "boom"
+    },
+    {
+        "code": "0x1f4a5",
+        "name": "collision"
+    },
+    {
+        "code": "0x1f4a6",
+        "name": "sweat drops"
+    },
+    {
+        "code": "0x1f4a7",
+        "name": "droplet"
+    },
+    {
+        "code": "0x1f4a8",
+        "name": "dash"
+    },
+    {
+        "code": "0x1f4a9",
+        "name": "hancode"
+    },
+    {
+        "code": "0x1f4a9",
+        "name": "shit"
+    },
+    {
+        "code": "0x1f4a9",
+        "name": "poop"
+    },
+    {
+        "code": "0x1f4aa",
+        "name": "muscle"
+    },
+    {
+        "code": "0x1f4ab",
+        "name": "dizzy"
+    },
+    {
+        "code": "0x1f4ac",
+        "name": "speech balloon"
+    },
+    {
+        "code": "0x1f4ad",
+        "name": "thought balloon"
+    },
+    {
+        "code": "0x1f4ae",
+        "name": "white flower"
+    },
+    {
+        "code": "0x1f4af",
+        "name": "100"
+    },
+    {
+        "code": "0x1f4b0",
+        "name": "moneybag"
+    },
+    {
+        "code": "0x1f4b1",
+        "name": "currency exchange"
+    },
+    {
+        "code": "0x1f4b2",
+        "name": "heavy dollar sign"
+    },
+    {
+        "code": "0x1f4b3",
+        "name": "credit card"
+    },
+    {
+        "code": "0x1f4b4",
+        "name": "yen"
+    },
+    {
+        "code": "0x1f4b5",
+        "name": "dollar"
+    },
+    {
+        "code": "0x1f4b6",
+        "name": "euro"
+    },
+    {
+        "code": "0x1f4b7",
+        "name": "pound"
+    },
+    {
+        "code": "0x1f4b8",
+        "name": "money with wings"
+    },
+    {
+        "code": "0x1f4b9",
+        "name": "chart"
+    },
+    {
+        "code": "0x1f4ba",
+        "name": "seat"
+    },
+    {
+        "code": "0x1f4bb",
+        "name": "computer"
+    },
+    {
+        "code": "0x1f4bc",
+        "name": "briefcase"
+    },
+    {
+        "code": "0x1f4bd",
+        "name": "minidisc"
+    },
+    {
+        "code": "0x1f4be",
+        "name": "floppy disk"
+    },
+    {
+        "code": "0x1f4bf",
+        "name": "cd"
+    },
+    {
+        "code": "0x1f4c0",
+        "name": "dvd"
+    },
+    {
+        "code": "0x1f4c1",
+        "name": "file folder"
+    },
+    {
+        "code": "0x1f4c2",
+        "name": "open file folder"
+    },
+    {
+        "code": "0x1f4c3",
+        "name": "page with curl"
+    },
+    {
+        "code": "0x1f4c4",
+        "name": "page facing up"
+    },
+    {
+        "code": "0x1f4c5",
+        "name": "date"
+    },
+    {
+        "code": "0x1f4c6",
+        "name": "calendar"
+    },
+    {
+        "code": "0x1f4c7",
+        "name": "card index"
+    },
+    {
+        "code": "0x1f4c8",
+        "name": "chart with upwards trend"
+    },
+    {
+        "code": "0x1f4c9",
+        "name": "chart with downwards trend"
+    },
+    {
+        "code": "0x1f4ca",
+        "name": "bar chart"
+    },
+    {
+        "code": "0x1f4cb",
+        "name": "clipboard"
+    },
+    {
+        "code": "0x1f4cc",
+        "name": "pushpin"
+    },
+    {
+        "code": "0x1f4cd",
+        "name": "round pushpin"
+    },
+    {
+        "code": "0x1f4ce",
+        "name": "paperclip"
+    },
+    {
+        "code": "0x1f4cf",
+        "name": "straight ruler"
+    },
+    {
+        "code": "0x1f4d0",
+        "name": "triangular ruler"
+    },
+    {
+        "code": "0x1f4d1",
+        "name": "bookmark tabs"
+    },
+    {
+        "code": "0x1f4d2",
+        "name": "ledger"
+    },
+    {
+        "code": "0x1f4d3",
+        "name": "notebook"
+    },
+    {
+        "code": "0x1f4d4",
+        "name": "notebook with decorative cover"
+    },
+    {
+        "code": "0x1f4d5",
+        "name": "closed book"
+    },
+    {
+        "code": "0x1f4d6",
+        "name": "book"
+    },
+    {
+        "code": "0x1f4d6",
+        "name": "open book"
+    },
+    {
+        "code": "0x1f4d7",
+        "name": "green book"
+    },
+    {
+        "code": "0x1f4d8",
+        "name": "blue book"
+    },
+    {
+        "code": "0x1f4d9",
+        "name": "orange book"
+    },
+    {
+        "code": "0x1f4da",
+        "name": "books"
+    },
+    {
+        "code": "0x1f4db",
+        "name": "name badge"
+    },
+    {
+        "code": "0x1f4dc",
+        "name": "scroll"
+    },
+    {
+        "code": "0x1f4dd",
+        "name": "memo"
+    },
+    {
+        "code": "0x1f4dd",
+        "name": "pencil"
+    },
+    {
+        "code": "0x1f4de",
+        "name": "telephone receiver"
+    },
+    {
+        "code": "0x1f4df",
+        "name": "pager"
+    },
+    {
+        "code": "0x1f4e0",
+        "name": "fax"
+    },
+    {
+        "code": "0x1f4e1",
+        "name": "satellite antenna"
+    },
+    {
+        "code": "0x1f4e2",
+        "name": "loudspeaker"
+    },
+    {
+        "code": "0x1f4e3",
+        "name": "mega"
+    },
+    {
+        "code": "0x1f4e4",
+        "name": "outbox tray"
+    },
+    {
+        "code": "0x1f4e5",
+        "name": "inbox tray"
+    },
+    {
+        "code": "0x1f4e6",
+        "name": "package"
+    },
+    {
+        "code": "0x1f4e7",
+        "name": "e mail"
+    },
+    {
+        "code": "0x1f4e8",
+        "name": "incoming envelope"
+    },
+    {
+        "code": "0x1f4e9",
+        "name": "envelope with arrow"
+    },
+    {
+        "code": "0x1f4ea",
+        "name": "mailbox closed"
+    },
+    {
+        "code": "0x1f4eb",
+        "name": "mailbox"
+    },
+    {
+        "code": "0x1f4ec",
+        "name": "mailbox with mail"
+    },
+    {
+        "code": "0x1f4ed",
+        "name": "mailbox with no mail"
+    },
+    {
+        "code": "0x1f4ee",
+        "name": "postbox"
+    },
+    {
+        "code": "0x1f4ef",
+        "name": "postal horn"
+    },
+    {
+        "code": "0x1f4f0",
+        "name": "newspaper"
+    },
+    {
+        "code": "0x1f4f1",
+        "name": "iphone"
+    },
+    {
+        "code": "0x1f4f2",
+        "name": "calling"
+    },
+    {
+        "code": "0x1f4f3",
+        "name": "vibration mode"
+    },
+    {
+        "code": "0x1f4f4",
+        "name": "mobile phone off"
+    },
+    {
+        "code": "0x1f4f5",
+        "name": "no mobile phones"
+    },
+    {
+        "code": "0x1f4f6",
+        "name": "signal strength"
+    },
+    {
+        "code": "0x1f4f7",
+        "name": "camera"
+    },
+    {
+        "code": "0x1f4f8",
+        "name": "camera with flash"
+    },
+    {
+        "code": "0x1f4f9",
+        "name": "video camera"
+    },
+    {
+        "code": "0x1f4fa",
+        "name": "tv"
+    },
+    {
+        "code": "0x1f4fb",
+        "name": "radio"
+    },
+    {
+        "code": "0x1f4fc",
+        "name": "vhs"
+    },
+    {
+        "code": "0x1f4fd",
+        "name": "film projector"
+    },
+    {
+        "code": "0x1f4ff",
+        "name": "prayer beads"
+    },
+    {
+        "code": "0x1f500",
+        "name": "twisted rightwards arrows"
+    },
+    {
+        "code": "0x1f501",
+        "name": "repeat"
+    },
+    {
+        "code": "0x1f502",
+        "name": "repeat one"
+    },
+    {
+        "code": "0x1f503",
+        "name": "arrows clockwise"
+    },
+    {
+        "code": "0x1f504",
+        "name": "arrows counterclockwise"
+    },
+    {
+        "code": "0x1f505",
+        "name": "low brightness"
+    },
+    {
+        "code": "0x1f506",
+        "name": "high brightness"
+    },
+    {
+        "code": "0x1f507",
+        "name": "mute"
+    },
+    {
+        "code": "0x1f508",
+        "name": "speaker"
+    },
+    {
+        "code": "0x1f509",
+        "name": "sound"
+    },
+    {
+        "code": "0x1f50a",
+        "name": "loud sound"
+    },
+    {
+        "code": "0x1f50b",
+        "name": "battery"
+    },
+    {
+        "code": "0x1f50c",
+        "name": "electric plug"
+    },
+    {
+        "code": "0x1f50d",
+        "name": "mag"
+    },
+    {
+        "code": "0x1f50e",
+        "name": "mag right"
+    },
+    {
+        "code": "0x1f50f",
+        "name": "lock with ink pen"
+    },
+    {
+        "code": "0x1f510",
+        "name": "closed lock with code"
+    },
+    {
+        "code": "0x1f511",
+        "name": "code"
+    },
+    {
+        "code": "0x1f512",
+        "name": "lock"
+    },
+    {
+        "code": "0x1f513",
+        "name": "unlock"
+    },
+    {
+        "code": "0x1f514",
+        "name": "bell"
+    },
+    {
+        "code": "0x1f515",
+        "name": "no bell"
+    },
+    {
+        "code": "0x1f516",
+        "name": "bookmark"
+    },
+    {
+        "code": "0x1f517",
+        "name": "link"
+    },
+    {
+        "code": "0x1f518",
+        "name": "radio button"
+    },
+    {
+        "code": "0x1f519",
+        "name": "back"
+    },
+    {
+        "code": "0x1f51a",
+        "name": "end"
+    },
+    {
+        "code": "0x1f51b",
+        "name": "on"
+    },
+    {
+        "code": "0x1f51c",
+        "name": "soon"
+    },
+    {
+        "code": "0x1f51d",
+        "name": "top"
+    },
+    {
+        "code": "0x1f51e",
+        "name": "underage"
+    },
+    {
+        "code": "0x1f51f",
+        "name": "codecap ten"
+    },
+    {
+        "code": "0x1f520",
+        "name": "capital abcd"
+    },
+    {
+        "code": "0x1f521",
+        "name": "abcd"
+    },
+    {
+        "code": "0x1f522",
+        "name": "1234"
+    },
+    {
+        "code": "0x1f523",
+        "name": "symbols"
+    },
+    {
+        "code": "0x1f524",
+        "name": "abc"
+    },
+    {
+        "code": "0x1f525",
+        "name": "fire"
+    },
+    {
+        "code": "0x1f526",
+        "name": "flashlight"
+    },
+    {
+        "code": "0x1f527",
+        "name": "wrench"
+    },
+    {
+        "code": "0x1f528",
+        "name": "hammer"
+    },
+    {
+        "code": "0x1f529",
+        "name": "nut and bolt"
+    },
+    {
+        "code": "0x1f52a",
+        "name": "hocho"
+    },
+    {
+        "code": "0x1f52a",
+        "name": "knife"
+    },
+    {
+        "code": "0x1f52b",
+        "name": "gun"
+    },
+    {
+        "code": "0x1f52c",
+        "name": "microscope"
+    },
+    {
+        "code": "0x1f52d",
+        "name": "telescope"
+    },
+    {
+        "code": "0x1f52e",
+        "name": "crystal ball"
+    },
+    {
+        "code": "0x1f52f",
+        "name": "six pointed star"
+    },
+    {
+        "code": "0x1f530",
+        "name": "beginner"
+    },
+    {
+        "code": "0x1f531",
+        "name": "trident"
+    },
+    {
+        "code": "0x1f532",
+        "name": "black square button"
+    },
+    {
+        "code": "0x1f533",
+        "name": "white square button"
+    },
+    {
+        "code": "0x1f534",
+        "name": "red circle"
+    },
+    {
+        "code": "0x1f535",
+        "name": "large blue circle"
+    },
+    {
+        "code": "0x1f536",
+        "name": "large orange diamond"
+    },
+    {
+        "code": "0x1f537",
+        "name": "large blue diamond"
+    },
+    {
+        "code": "0x1f538",
+        "name": "small orange diamond"
+    },
+    {
+        "code": "0x1f539",
+        "name": "small blue diamond"
+    },
+    {
+        "code": "0x1f53a",
+        "name": "small red triangle"
+    },
+    {
+        "code": "0x1f53b",
+        "name": "small red triangle down"
+    },
+    {
+        "code": "0x1f53c",
+        "name": "arrow up small"
+    },
+    {
+        "code": "0x1f53d",
+        "name": "arrow down small"
+    },
+    {
+        "code": "0x1f549",
+        "name": "om symbol"
+    },
+    {
+        "code": "0x1f54a",
+        "name": "dove of peace"
+    },
+    {
+        "code": "0x1f54b",
+        "name": "kaaba"
+    },
+    {
+        "code": "0x1f54c",
+        "name": "mosque"
+    },
+    {
+        "code": "0x1f54d",
+        "name": "synagogue"
+    },
+    {
+        "code": "0x1f54e",
+        "name": "menorah with nine branches"
+    },
+    {
+        "code": "0x1f550",
+        "name": "clock1"
+    },
+    {
+        "code": "0x1f551",
+        "name": "clock2"
+    },
+    {
+        "code": "0x1f552",
+        "name": "clock3"
+    },
+    {
+        "code": "0x1f553",
+        "name": "clock4"
+    },
+    {
+        "code": "0x1f554",
+        "name": "clock5"
+    },
+    {
+        "code": "0x1f555",
+        "name": "clock6"
+    },
+    {
+        "code": "0x1f556",
+        "name": "clock7"
+    },
+    {
+        "code": "0x1f557",
+        "name": "clock8"
+    },
+    {
+        "code": "0x1f558",
+        "name": "clock9"
+    },
+    {
+        "code": "0x1f559",
+        "name": "clock10"
+    },
+    {
+        "code": "0x1f55a",
+        "name": "clock11"
+    },
+    {
+        "code": "0x1f55b",
+        "name": "clock12"
+    },
+    {
+        "code": "0x1f55c",
+        "name": "clock130"
+    },
+    {
+        "code": "0x1f55d",
+        "name": "clock230"
+    },
+    {
+        "code": "0x1f55e",
+        "name": "clock330"
+    },
+    {
+        "code": "0x1f55f",
+        "name": "clock430"
+    },
+    {
+        "code": "0x1f560",
+        "name": "clock530"
+    },
+    {
+        "code": "0x1f561",
+        "name": "clock630"
+    },
+    {
+        "code": "0x1f562",
+        "name": "clock730"
+    },
+    {
+        "code": "0x1f563",
+        "name": "clock830"
+    },
+    {
+        "code": "0x1f564",
+        "name": "clock930"
+    },
+    {
+        "code": "0x1f565",
+        "name": "clock1030"
+    },
+    {
+        "code": "0x1f566",
+        "name": "clock1130"
+    },
+    {
+        "code": "0x1f567",
+        "name": "clock1230"
+    },
+    {
+        "code": "0x1f56f",
+        "name": "candle"
+    },
+    {
+        "code": "0x1f570",
+        "name": "mantelpiece clock"
+    },
+    {
+        "code": "0x1f573",
+        "name": "hole"
+    },
+    {
+        "code": "0x1f574",
+        "name": "man in business suit levitating"
+    },
+    {
+        "code": "0x1f575",
+        "name": "sleuth or spy"
+    },
+    {
+        "code": "0x1f576",
+        "name": "dark sunglasses"
+    },
+    {
+        "code": "0x1f577",
+        "name": "spider"
+    },
+    {
+        "code": "0x1f578",
+        "name": "spider web"
+    },
+    {
+        "code": "0x1f579",
+        "name": "joystick"
+    },
+    {
+        "code": "0x1f587",
+        "name": "linked paperclips"
+    },
+    {
+        "code": "0x1f58a",
+        "name": "lower left ballpoint pen"
+    },
+    {
+        "code": "0x1f58b",
+        "name": "lower left fountain pen"
+    },
+    {
+        "code": "0x1f58c",
+        "name": "lower left paintbrush"
+    },
+    {
+        "code": "0x1f58d",
+        "name": "lower left crayon"
+    },
+    {
+        "code": "0x1f590",
+        "name": "raised hand with fingers splayed"
+    },
+    {
+        "code": "0x1f595",
+        "name": "middle finger"
+    },
+    {
+        "code": "0x1f595",
+        "name": "reversed hand with middle finger extended"
+    },
+    {
+        "code": "0x1f596",
+        "name": "spock hand"
+    },
+    {
+        "code": "0x1f5a5",
+        "name": "desktop computer"
+    },
+    {
+        "code": "0x1f5a8",
+        "name": "printer"
+    },
+    {
+        "code": "0x1f5b1",
+        "name": "three button mouse"
+    },
+    {
+        "code": "0x1f5b2",
+        "name": "trackball"
+    },
+    {
+        "code": "0x1f5bc",
+        "name": "frame with picture"
+    },
+    {
+        "code": "0x1f5c2",
+        "name": "card index dividers"
+    },
+    {
+        "code": "0x1f5c3",
+        "name": "card file box"
+    },
+    {
+        "code": "0x1f5c4",
+        "name": "file cabinet"
+    },
+    {
+        "code": "0x1f5d1",
+        "name": "wastebasket"
+    },
+    {
+        "code": "0x1f5d2",
+        "name": "spiral note pad"
+    },
+    {
+        "code": "0x1f5d3",
+        "name": "spiral calendar pad"
+    },
+    {
+        "code": "0x1f5dc",
+        "name": "compression"
+    },
+    {
+        "code": "0x1f5dd",
+        "name": "old code"
+    },
+    {
+        "code": "0x1f5de",
+        "name": "rolled up newspaper"
+    },
+    {
+        "code": "0x1f5e1",
+        "name": "dagger knife"
+    },
+    {
+        "code": "0x1f5e3",
+        "name": "speaking head in silhouette"
+    },
+    {
+        "code": "0x1f5e8",
+        "name": "left speech bubble"
+    },
+    {
+        "code": "0x1f5ef",
+        "name": "right anger bubble"
+    },
+    {
+        "code": "0x1f5f3",
+        "name": "ballot box with ballot"
+    },
+    {
+        "code": "0x1f5fa",
+        "name": "world map"
+    },
+    {
+        "code": "0x1f5fb",
+        "name": "mount fuji"
+    },
+    {
+        "code": "0x1f5fc",
+        "name": "tokyo tower"
+    },
+    {
+        "code": "0x1f5fd",
+        "name": "statue of liberty"
+    },
+    {
+        "code": "0x1f5fe",
+        "name": "japan"
+    },
+    {
+        "code": "0x1f5ff",
+        "name": "moyai"
+    },
+    {
+        "code": "0x1f680",
+        "name": "rocket"
+    },
+    {
+        "code": "0x1f681",
+        "name": "helicopter"
+    },
+    {
+        "code": "0x1f682",
+        "name": "steam locomotive"
+    },
+    {
+        "code": "0x1f683",
+        "name": "railway car"
+    },
+    {
+        "code": "0x1f684",
+        "name": "bullettrain side"
+    },
+    {
+        "code": "0x1f685",
+        "name": "bullettrain front"
+    },
+    {
+        "code": "0x1f686",
+        "name": "train2"
+    },
+    {
+        "code": "0x1f687",
+        "name": "metro"
+    },
+    {
+        "code": "0x1f688",
+        "name": "light rail"
+    },
+    {
+        "code": "0x1f689",
+        "name": "station"
+    },
+    {
+        "code": "0x1f68a",
+        "name": "tram"
+    },
+    {
+        "code": "0x1f68b",
+        "name": "train"
+    },
+    {
+        "code": "0x1f68c",
+        "name": "bus"
+    },
+    {
+        "code": "0x1f68d",
+        "name": "oncoming bus"
+    },
+    {
+        "code": "0x1f68e",
+        "name": "trolleybus"
+    },
+    {
+        "code": "0x1f68f",
+        "name": "busstop"
+    },
+    {
+        "code": "0x1f690",
+        "name": "minibus"
+    },
+    {
+        "code": "0x1f691",
+        "name": "ambulance"
+    },
+    {
+        "code": "0x1f692",
+        "name": "fire engine"
+    },
+    {
+        "code": "0x1f693",
+        "name": "police car"
+    },
+    {
+        "code": "0x1f694",
+        "name": "oncoming police car"
+    },
+    {
+        "code": "0x1f695",
+        "name": "taxi"
+    },
+    {
+        "code": "0x1f696",
+        "name": "oncoming taxi"
+    },
+    {
+        "code": "0x1f697",
+        "name": "car"
+    },
+    {
+        "code": "0x1f697",
+        "name": "red car"
+    },
+    {
+        "code": "0x1f698",
+        "name": "oncoming automobile"
+    },
+    {
+        "code": "0x1f699",
+        "name": "blue car"
+    },
+    {
+        "code": "0x1f69a",
+        "name": "truck"
+    },
+    {
+        "code": "0x1f69b",
+        "name": "articulated lorry"
+    },
+    {
+        "code": "0x1f69c",
+        "name": "tractor"
+    },
+    {
+        "code": "0x1f69d",
+        "name": "monorail"
+    },
+    {
+        "code": "0x1f69e",
+        "name": "mountain railway"
+    },
+    {
+        "code": "0x1f69f",
+        "name": "suspension railway"
+    },
+    {
+        "code": "0x1f6a0",
+        "name": "mountain cableway"
+    },
+    {
+        "code": "0x1f6a1",
+        "name": "aerial tramway"
+    },
+    {
+        "code": "0x1f6a2",
+        "name": "ship"
+    },
+    {
+        "code": "0x1f6a3",
+        "name": "rowboat"
+    },
+    {
+        "code": "0x1f6a4",
+        "name": "speedboat"
+    },
+    {
+        "code": "0x1f6a5",
+        "name": "traffic light"
+    },
+    {
+        "code": "0x1f6a6",
+        "name": "vertical traffic light"
+    },
+    {
+        "code": "0x1f6a7",
+        "name": "construction"
+    },
+    {
+        "code": "0x1f6a8",
+        "name": "rotating light"
+    },
+    {
+        "code": "0x1f6a9",
+        "name": "triangular flag on post"
+    },
+    {
+        "code": "0x1f6aa",
+        "name": "door"
+    },
+    {
+        "code": "0x1f6ab",
+        "name": "no entry sign"
+    },
+    {
+        "code": "0x1f6ac",
+        "name": "smoking"
+    },
+    {
+        "code": "0x1f6ad",
+        "name": "no smoking"
+    },
+    {
+        "code": "0x1f6ae",
+        "name": "put litter in its place"
+    },
+    {
+        "code": "0x1f6af",
+        "name": "do not litter"
+    },
+    {
+        "code": "0x1f6b0",
+        "name": "potable water"
+    },
+    {
+        "code": "0x1f6b1",
+        "name": "non potable water"
+    },
+    {
+        "code": "0x1f6b2",
+        "name": "bike"
+    },
+    {
+        "code": "0x1f6b3",
+        "name": "no bicycles"
+    },
+    {
+        "code": "0x1f6b4",
+        "name": "bicyclist"
+    },
+    {
+        "code": "0x1f6b5",
+        "name": "mountain bicyclist"
+    },
+    {
+        "code": "0x1f6b6",
+        "name": "walking"
+    },
+    {
+        "code": "0x1f6b7",
+        "name": "no pedestrians"
+    },
+    {
+        "code": "0x1f6b8",
+        "name": "children crossing"
+    },
+    {
+        "code": "0x1f6b9",
+        "name": "mens"
+    },
+    {
+        "code": "0x1f6ba",
+        "name": "womens"
+    },
+    {
+        "code": "0x1f6bb",
+        "name": "restroom"
+    },
+    {
+        "code": "0x1f6bc",
+        "name": "baby symbol"
+    },
+    {
+        "code": "0x1f6bd",
+        "name": "toilet"
+    },
+    {
+        "code": "0x1f6be",
+        "name": "wc"
+    },
+    {
+        "code": "0x1f6bf",
+        "name": "shower"
+    },
+    {
+        "code": "0x1f6c0",
+        "name": "bath"
+    },
+    {
+        "code": "0x1f6c1",
+        "name": "bathtub"
+    },
+    {
+        "code": "0x1f6c2",
+        "name": "passport control"
+    },
+    {
+        "code": "0x1f6c3",
+        "name": "customs"
+    },
+    {
+        "code": "0x1f6c4",
+        "name": "baggage claim"
+    },
+    {
+        "code": "0x1f6c5",
+        "name": "left luggage"
+    },
+    {
+        "code": "0x1f6cb",
+        "name": "couch and lamp"
+    },
+    {
+        "code": "0x1f6cc",
+        "name": "sleeping accommodation"
+    },
+    {
+        "code": "0x1f6cd",
+        "name": "shopping bags"
+    },
+    {
+        "code": "0x1f6ce",
+        "name": "bellhop bell"
+    },
+    {
+        "code": "0x1f6cf",
+        "name": "bed"
+    },
+    {
+        "code": "0x1f6d0",
+        "name": "place of worship"
+    },
+    {
+        "code": "0x1f6e0",
+        "name": "hammer and wrench"
+    },
+    {
+        "code": "0x1f6e1",
+        "name": "shield"
+    },
+    {
+        "code": "0x1f6e2",
+        "name": "oil drum"
+    },
+    {
+        "code": "0x1f6e3",
+        "name": "motorway"
+    },
+    {
+        "code": "0x1f6e4",
+        "name": "railway track"
+    },
+    {
+        "code": "0x1f6e5",
+        "name": "motor boat"
+    },
+    {
+        "code": "0x1f6e9",
+        "name": "small airplane"
+    },
+    {
+        "code": "0x1f6eb",
+        "name": "airplane departure"
+    },
+    {
+        "code": "0x1f6ec",
+        "name": "airplane arriving"
+    },
+    {
+        "code": "0x1f6f0",
+        "name": "satellite"
+    },
+    {
+        "code": "0x1f6f3",
+        "name": "passenger ship"
+    },
+    {
+        "code": "0x1f910",
+        "name": "zipper mouth face"
+    },
+    {
+        "code": "0x1f911",
+        "name": "money mouth face"
+    },
+    {
+        "code": "0x1f912",
+        "name": "face with thermometer"
+    },
+    {
+        "code": "0x1f913",
+        "name": "nerd face"
+    },
+    {
+        "code": "0x1f914",
+        "name": "thinking face"
+    },
+    {
+        "code": "0x1f915",
+        "name": "face with head bandage"
+    },
+    {
+        "code": "0x1f916",
+        "name": "robot face"
+    },
+    {
+        "code": "0x1f917",
+        "name": "hugging face"
+    },
+    {
+        "code": "0x1f918",
+        "name": "the horns"
+    },
+    {
+        "code": "0x1f918",
+        "name": "sign of the horns"
+    },
+    {
+        "code": "0x1f980",
+        "name": "crab"
+    },
+    {
+        "code": "0x1f981",
+        "name": "lion face"
+    },
+    {
+        "code": "0x1f982",
+        "name": "scorpion"
+    },
+    {
+        "code": "0x1f983",
+        "name": "turcode"
+    },
+    {
+        "code": "0x1f984",
+        "name": "unicorn face"
+    },
+    {
+        "code": "0x1f9c0",
+        "name": "cheese wedge"
+    },
+    {
+        "code": "0x0023,0x20e3",
+        "name": "hash"
+    },
+    {
+        "code": "0x002a,0x20e3",
+        "name": "codecap star"
+    },
+    {
+        "code": "0x0030,0x20e3",
+        "name": "zero"
+    },
+    {
+        "code": "0x0031,0x20e3",
+        "name": "one"
+    },
+    {
+        "code": "0x0032,0x20e3",
+        "name": "two"
+    },
+    {
+        "code": "0x0033,0x20e3",
+        "name": "three"
+    },
+    {
+        "code": "0x0034,0x20e3",
+        "name": "four"
+    },
+    {
+        "code": "0x0035,0x20e3",
+        "name": "five"
+    },
+    {
+        "code": "0x0036,0x20e3",
+        "name": "six"
+    },
+    {
+        "code": "0x0037,0x20e3",
+        "name": "seven"
+    },
+    {
+        "code": "0x0038,0x20e3",
+        "name": "eight"
+    },
+    {
+        "code": "0x0039,0x20e3",
+        "name": "nine"
+    },
+    {
+        "code": "0x1f1e6,0x1f1e8",
+        "name": "flag ac"
+    },
+    {
+        "code": "0x1f1e6,0x1f1e9",
+        "name": "flag ad"
+    },
+    {
+        "code": "0x1f1e6,0x1f1ea",
+        "name": "flag ae"
+    },
+    {
+        "code": "0x1f1e6,0x1f1eb",
+        "name": "flag af"
+    },
+    {
+        "code": "0x1f1e6,0x1f1ec",
+        "name": "flag ag"
+    },
+    {
+        "code": "0x1f1e6,0x1f1ee",
+        "name": "flag ai"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f1",
+        "name": "flag al"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f2",
+        "name": "flag am"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f4",
+        "name": "flag ao"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f6",
+        "name": "flag aq"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f7",
+        "name": "flag ar"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f8",
+        "name": "flag as"
+    },
+    {
+        "code": "0x1f1e6,0x1f1f9",
+        "name": "flag at"
+    },
+    {
+        "code": "0x1f1e6,0x1f1fa",
+        "name": "flag au"
+    },
+    {
+        "code": "0x1f1e6,0x1f1fc",
+        "name": "flag aw"
+    },
+    {
+        "code": "0x1f1e6,0x1f1fd",
+        "name": "flag ax"
+    },
+    {
+        "code": "0x1f1e6,0x1f1ff",
+        "name": "flag az"
+    },
+    {
+        "code": "0x1f1e7,0x1f1e6",
+        "name": "flag ba"
+    },
+    {
+        "code": "0x1f1e7,0x1f1e7",
+        "name": "flag bb"
+    },
+    {
+        "code": "0x1f1e7,0x1f1e9",
+        "name": "flag bd"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ea",
+        "name": "flag be"
+    },
+    {
+        "code": "0x1f1e7,0x1f1eb",
+        "name": "flag bf"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ec",
+        "name": "flag bg"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ed",
+        "name": "flag bh"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ee",
+        "name": "flag bi"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ef",
+        "name": "flag bj"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f1",
+        "name": "flag bl"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f2",
+        "name": "flag bm"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f3",
+        "name": "flag bn"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f4",
+        "name": "flag bo"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f6",
+        "name": "flag bq"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f7",
+        "name": "flag br"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f8",
+        "name": "flag bs"
+    },
+    {
+        "code": "0x1f1e7,0x1f1f9",
+        "name": "flag bt"
+    },
+    {
+        "code": "0x1f1e7,0x1f1fb",
+        "name": "flag bv"
+    },
+    {
+        "code": "0x1f1e7,0x1f1fc",
+        "name": "flag bw"
+    },
+    {
+        "code": "0x1f1e7,0x1f1fe",
+        "name": "flag by"
+    },
+    {
+        "code": "0x1f1e7,0x1f1ff",
+        "name": "flag bz"
+    },
+    {
+        "code": "0x1f1e8,0x1f1e6",
+        "name": "flag ca"
+    },
+    {
+        "code": "0x1f1e8,0x1f1e8",
+        "name": "flag cc"
+    },
+    {
+        "code": "0x1f1e8,0x1f1e9",
+        "name": "flag cd"
+    },
+    {
+        "code": "0x1f1e8,0x1f1eb",
+        "name": "flag cf"
+    },
+    {
+        "code": "0x1f1e8,0x1f1ec",
+        "name": "flag cg"
+    },
+    {
+        "code": "0x1f1e8,0x1f1ed",
+        "name": "flag ch"
+    },
+    {
+        "code": "0x1f1e8,0x1f1ee",
+        "name": "flag ci"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f0",
+        "name": "flag ck"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f1",
+        "name": "flag cl"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f2",
+        "name": "flag cm"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f3",
+        "name": "flag cn"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f3",
+        "name": "cn"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f4",
+        "name": "flag co"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f5",
+        "name": "flag cp"
+    },
+    {
+        "code": "0x1f1e8,0x1f1f7",
+        "name": "flag cr"
+    },
+    {
+        "code": "0x1f1e8,0x1f1fa",
+        "name": "flag cu"
+    },
+    {
+        "code": "0x1f1e8,0x1f1fb",
+        "name": "flag cv"
+    },
+    {
+        "code": "0x1f1e8,0x1f1fc",
+        "name": "flag cw"
+    },
+    {
+        "code": "0x1f1e8,0x1f1fd",
+        "name": "flag cx"
+    },
+    {
+        "code": "0x1f1e8,0x1f1fe",
+        "name": "flag cy"
+    },
+    {
+        "code": "0x1f1e8,0x1f1ff",
+        "name": "flag cz"
+    },
+    {
+        "code": "0x1f1e9,0x1f1ea",
+        "name": "flag de"
+    },
+    {
+        "code": "0x1f1e9,0x1f1ea",
+        "name": "de"
+    },
+    {
+        "code": "0x1f1e9,0x1f1ec",
+        "name": "flag dg"
+    },
+    {
+        "code": "0x1f1e9,0x1f1ef",
+        "name": "flag dj"
+    },
+    {
+        "code": "0x1f1e9,0x1f1f0",
+        "name": "flag dk"
+    },
+    {
+        "code": "0x1f1e9,0x1f1f2",
+        "name": "flag dm"
+    },
+    {
+        "code": "0x1f1e9,0x1f1f4",
+        "name": "flag do"
+    },
+    {
+        "code": "0x1f1e9,0x1f1ff",
+        "name": "flag dz"
+    },
+    {
+        "code": "0x1f1ea,0x1f1e6",
+        "name": "flag ea"
+    },
+    {
+        "code": "0x1f1ea,0x1f1e8",
+        "name": "flag ec"
+    },
+    {
+        "code": "0x1f1ea,0x1f1ea",
+        "name": "flag ee"
+    },
+    {
+        "code": "0x1f1ea,0x1f1ec",
+        "name": "flag eg"
+    },
+    {
+        "code": "0x1f1ea,0x1f1ed",
+        "name": "flag eh"
+    },
+    {
+        "code": "0x1f1ea,0x1f1f7",
+        "name": "flag er"
+    },
+    {
+        "code": "0x1f1ea,0x1f1f8",
+        "name": "flag es"
+    },
+    {
+        "code": "0x1f1ea,0x1f1f8",
+        "name": "es"
+    },
+    {
+        "code": "0x1f1ea,0x1f1f9",
+        "name": "flag et"
+    },
+    {
+        "code": "0x1f1ea,0x1f1fa",
+        "name": "flag eu"
+    },
+    {
+        "code": "0x1f1eb,0x1f1ee",
+        "name": "flag fi"
+    },
+    {
+        "code": "0x1f1eb,0x1f1ef",
+        "name": "flag fj"
+    },
+    {
+        "code": "0x1f1eb,0x1f1f0",
+        "name": "flag fk"
+    },
+    {
+        "code": "0x1f1eb,0x1f1f2",
+        "name": "flag fm"
+    },
+    {
+        "code": "0x1f1eb,0x1f1f4",
+        "name": "flag fo"
+    },
+    {
+        "code": "0x1f1eb,0x1f1f7",
+        "name": "flag fr"
+    },
+    {
+        "code": "0x1f1eb,0x1f1f7",
+        "name": "fr"
+    },
+    {
+        "code": "0x1f1ec,0x1f1e6",
+        "name": "flag ga"
+    },
+    {
+        "code": "0x1f1ec,0x1f1e7",
+        "name": "flag gb"
+    },
+    {
+        "code": "0x1f1ec,0x1f1e7",
+        "name": "uk"
+    },
+    {
+        "code": "0x1f1ec,0x1f1e7",
+        "name": "gb"
+    },
+    {
+        "code": "0x1f1ec,0x1f1e9",
+        "name": "flag gd"
+    },
+    {
+        "code": "0x1f1ec,0x1f1ea",
+        "name": "flag ge"
+    },
+    {
+        "code": "0x1f1ec,0x1f1eb",
+        "name": "flag gf"
+    },
+    {
+        "code": "0x1f1ec,0x1f1ec",
+        "name": "flag gg"
+    },
+    {
+        "code": "0x1f1ec,0x1f1ed",
+        "name": "flag gh"
+    },
+    {
+        "code": "0x1f1ec,0x1f1ee",
+        "name": "flag gi"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f1",
+        "name": "flag gl"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f2",
+        "name": "flag gm"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f3",
+        "name": "flag gn"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f5",
+        "name": "flag gp"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f6",
+        "name": "flag gq"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f7",
+        "name": "flag gr"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f8",
+        "name": "flag gs"
+    },
+    {
+        "code": "0x1f1ec,0x1f1f9",
+        "name": "flag gt"
+    },
+    {
+        "code": "0x1f1ec,0x1f1fa",
+        "name": "flag gu"
+    },
+    {
+        "code": "0x1f1ec,0x1f1fc",
+        "name": "flag gw"
+    },
+    {
+        "code": "0x1f1ec,0x1f1fe",
+        "name": "flag gy"
+    },
+    {
+        "code": "0x1f1ed,0x1f1f0",
+        "name": "flag hk"
+    },
+    {
+        "code": "0x1f1ed,0x1f1f2",
+        "name": "flag hm"
+    },
+    {
+        "code": "0x1f1ed,0x1f1f3",
+        "name": "flag hn"
+    },
+    {
+        "code": "0x1f1ed,0x1f1f7",
+        "name": "flag hr"
+    },
+    {
+        "code": "0x1f1ed,0x1f1f9",
+        "name": "flag ht"
+    },
+    {
+        "code": "0x1f1ed,0x1f1fa",
+        "name": "flag hu"
+    },
+    {
+        "code": "0x1f1ee,0x1f1e8",
+        "name": "flag ic"
+    },
+    {
+        "code": "0x1f1ee,0x1f1e9",
+        "name": "flag id"
+    },
+    {
+        "code": "0x1f1ee,0x1f1ea",
+        "name": "flag ie"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f1",
+        "name": "flag il"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f2",
+        "name": "flag im"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f3",
+        "name": "flag in"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f4",
+        "name": "flag io"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f6",
+        "name": "flag iq"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f7",
+        "name": "flag ir"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f8",
+        "name": "flag is"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f9",
+        "name": "flag it"
+    },
+    {
+        "code": "0x1f1ee,0x1f1f9",
+        "name": "it"
+    },
+    {
+        "code": "0x1f1ef,0x1f1ea",
+        "name": "flag je"
+    },
+    {
+        "code": "0x1f1ef,0x1f1f2",
+        "name": "flag jm"
+    },
+    {
+        "code": "0x1f1ef,0x1f1f4",
+        "name": "flag jo"
+    },
+    {
+        "code": "0x1f1ef,0x1f1f5",
+        "name": "flag jp"
+    },
+    {
+        "code": "0x1f1ef,0x1f1f5",
+        "name": "jp"
+    },
+    {
+        "code": "0x1f1f0,0x1f1ea",
+        "name": "flag ke"
+    },
+    {
+        "code": "0x1f1f0,0x1f1ec",
+        "name": "flag kg"
+    },
+    {
+        "code": "0x1f1f0,0x1f1ed",
+        "name": "flag kh"
+    },
+    {
+        "code": "0x1f1f0,0x1f1ee",
+        "name": "flag ki"
+    },
+    {
+        "code": "0x1f1f0,0x1f1f2",
+        "name": "flag km"
+    },
+    {
+        "code": "0x1f1f0,0x1f1f3",
+        "name": "flag kn"
+    },
+    {
+        "code": "0x1f1f0,0x1f1f5",
+        "name": "flag kp"
+    },
+    {
+        "code": "0x1f1f0,0x1f1f7",
+        "name": "flag kr"
+    },
+    {
+        "code": "0x1f1f0,0x1f1f7",
+        "name": "kr"
+    },
+    {
+        "code": "0x1f1f0,0x1f1fc",
+        "name": "flag kw"
+    },
+    {
+        "code": "0x1f1f0,0x1f1fe",
+        "name": "flag ky"
+    },
+    {
+        "code": "0x1f1f0,0x1f1ff",
+        "name": "flag kz"
+    },
+    {
+        "code": "0x1f1f1,0x1f1e6",
+        "name": "flag la"
+    },
+    {
+        "code": "0x1f1f1,0x1f1e7",
+        "name": "flag lb"
+    },
+    {
+        "code": "0x1f1f1,0x1f1e8",
+        "name": "flag lc"
+    },
+    {
+        "code": "0x1f1f1,0x1f1ee",
+        "name": "flag li"
+    },
+    {
+        "code": "0x1f1f1,0x1f1f0",
+        "name": "flag lk"
+    },
+    {
+        "code": "0x1f1f1,0x1f1f7",
+        "name": "flag lr"
+    },
+    {
+        "code": "0x1f1f1,0x1f1f8",
+        "name": "flag ls"
+    },
+    {
+        "code": "0x1f1f1,0x1f1f9",
+        "name": "flag lt"
+    },
+    {
+        "code": "0x1f1f1,0x1f1fa",
+        "name": "flag lu"
+    },
+    {
+        "code": "0x1f1f1,0x1f1fb",
+        "name": "flag lv"
+    },
+    {
+        "code": "0x1f1f1,0x1f1fe",
+        "name": "flag ly"
+    },
+    {
+        "code": "0x1f1f2,0x1f1e6",
+        "name": "flag ma"
+    },
+    {
+        "code": "0x1f1f2,0x1f1e8",
+        "name": "flag mc"
+    },
+    {
+        "code": "0x1f1f2,0x1f1e9",
+        "name": "flag md"
+    },
+    {
+        "code": "0x1f1f2,0x1f1ea",
+        "name": "flag me"
+    },
+    {
+        "code": "0x1f1f2,0x1f1eb",
+        "name": "flag mf"
+    },
+    {
+        "code": "0x1f1f2,0x1f1ec",
+        "name": "flag mg"
+    },
+    {
+        "code": "0x1f1f2,0x1f1ed",
+        "name": "flag mh"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f0",
+        "name": "flag mk"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f1",
+        "name": "flag ml"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f2",
+        "name": "flag mm"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f3",
+        "name": "flag mn"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f4",
+        "name": "flag mo"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f5",
+        "name": "flag mp"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f6",
+        "name": "flag mq"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f7",
+        "name": "flag mr"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f8",
+        "name": "flag ms"
+    },
+    {
+        "code": "0x1f1f2,0x1f1f9",
+        "name": "flag mt"
+    },
+    {
+        "code": "0x1f1f2,0x1f1fa",
+        "name": "flag mu"
+    },
+    {
+        "code": "0x1f1f2,0x1f1fb",
+        "name": "flag mv"
+    },
+    {
+        "code": "0x1f1f2,0x1f1fc",
+        "name": "flag mw"
+    },
+    {
+        "code": "0x1f1f2,0x1f1fd",
+        "name": "flag mx"
+    },
+    {
+        "code": "0x1f1f2,0x1f1fe",
+        "name": "flag my"
+    },
+    {
+        "code": "0x1f1f2,0x1f1ff",
+        "name": "flag mz"
+    },
+    {
+        "code": "0x1f1f3,0x1f1e6",
+        "name": "flag na"
+    },
+    {
+        "code": "0x1f1f3,0x1f1e8",
+        "name": "flag nc"
+    },
+    {
+        "code": "0x1f1f3,0x1f1ea",
+        "name": "flag ne"
+    },
+    {
+        "code": "0x1f1f3,0x1f1eb",
+        "name": "flag nf"
+    },
+    {
+        "code": "0x1f1f3,0x1f1ec",
+        "name": "flag ng"
+    },
+    {
+        "code": "0x1f1f3,0x1f1ee",
+        "name": "flag ni"
+    },
+    {
+        "code": "0x1f1f3,0x1f1f1",
+        "name": "flag nl"
+    },
+    {
+        "code": "0x1f1f3,0x1f1f4",
+        "name": "flag no"
+    },
+    {
+        "code": "0x1f1f3,0x1f1f5",
+        "name": "flag np"
+    },
+    {
+        "code": "0x1f1f3,0x1f1f7",
+        "name": "flag nr"
+    },
+    {
+        "code": "0x1f1f3,0x1f1fa",
+        "name": "flag nu"
+    },
+    {
+        "code": "0x1f1f3,0x1f1ff",
+        "name": "flag nz"
+    },
+    {
+        "code": "0x1f1f4,0x1f1f2",
+        "name": "flag om"
+    },
+    {
+        "code": "0x1f1f5,0x1f1e6",
+        "name": "flag pa"
+    },
+    {
+        "code": "0x1f1f5,0x1f1ea",
+        "name": "flag pe"
+    },
+    {
+        "code": "0x1f1f5,0x1f1eb",
+        "name": "flag pf"
+    },
+    {
+        "code": "0x1f1f5,0x1f1ec",
+        "name": "flag pg"
+    },
+    {
+        "code": "0x1f1f5,0x1f1ed",
+        "name": "flag ph"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f0",
+        "name": "flag pk"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f1",
+        "name": "flag pl"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f2",
+        "name": "flag pm"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f3",
+        "name": "flag pn"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f7",
+        "name": "flag pr"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f8",
+        "name": "flag ps"
+    },
+    {
+        "code": "0x1f1f5,0x1f1f9",
+        "name": "flag pt"
+    },
+    {
+        "code": "0x1f1f5,0x1f1fc",
+        "name": "flag pw"
+    },
+    {
+        "code": "0x1f1f5,0x1f1fe",
+        "name": "flag py"
+    },
+    {
+        "code": "0x1f1f6,0x1f1e6",
+        "name": "flag qa"
+    },
+    {
+        "code": "0x1f1f7,0x1f1ea",
+        "name": "flag re"
+    },
+    {
+        "code": "0x1f1f7,0x1f1f4",
+        "name": "flag ro"
+    },
+    {
+        "code": "0x1f1f7,0x1f1f8",
+        "name": "flag rs"
+    },
+    {
+        "code": "0x1f1f7,0x1f1fa",
+        "name": "flag ru"
+    },
+    {
+        "code": "0x1f1f7,0x1f1fa",
+        "name": "ru"
+    },
+    {
+        "code": "0x1f1f7,0x1f1fc",
+        "name": "flag rw"
+    },
+    {
+        "code": "0x1f1f8,0x1f1e6",
+        "name": "flag sa"
+    },
+    {
+        "code": "0x1f1f8,0x1f1e7",
+        "name": "flag sb"
+    },
+    {
+        "code": "0x1f1f8,0x1f1e8",
+        "name": "flag sc"
+    },
+    {
+        "code": "0x1f1f8,0x1f1e9",
+        "name": "flag sd"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ea",
+        "name": "flag se"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ec",
+        "name": "flag sg"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ed",
+        "name": "flag sh"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ee",
+        "name": "flag si"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ef",
+        "name": "flag sj"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f0",
+        "name": "flag sk"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f1",
+        "name": "flag sl"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f2",
+        "name": "flag sm"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f3",
+        "name": "flag sn"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f4",
+        "name": "flag so"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f7",
+        "name": "flag sr"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f8",
+        "name": "flag ss"
+    },
+    {
+        "code": "0x1f1f8,0x1f1f9",
+        "name": "flag st"
+    },
+    {
+        "code": "0x1f1f8,0x1f1fb",
+        "name": "flag sv"
+    },
+    {
+        "code": "0x1f1f8,0x1f1fd",
+        "name": "flag sx"
+    },
+    {
+        "code": "0x1f1f8,0x1f1fe",
+        "name": "flag sy"
+    },
+    {
+        "code": "0x1f1f8,0x1f1ff",
+        "name": "flag sz"
+    },
+    {
+        "code": "0x1f1f9,0x1f1e6",
+        "name": "flag ta"
+    },
+    {
+        "code": "0x1f1f9,0x1f1e8",
+        "name": "flag tc"
+    },
+    {
+        "code": "0x1f1f9,0x1f1e9",
+        "name": "flag td"
+    },
+    {
+        "code": "0x1f1f9,0x1f1eb",
+        "name": "flag tf"
+    },
+    {
+        "code": "0x1f1f9,0x1f1ec",
+        "name": "flag tg"
+    },
+    {
+        "code": "0x1f1f9,0x1f1ed",
+        "name": "flag th"
+    },
+    {
+        "code": "0x1f1f9,0x1f1ef",
+        "name": "flag tj"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f0",
+        "name": "flag tk"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f1",
+        "name": "flag tl"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f2",
+        "name": "flag tm"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f3",
+        "name": "flag tn"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f4",
+        "name": "flag to"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f7",
+        "name": "flag tr"
+    },
+    {
+        "code": "0x1f1f9,0x1f1f9",
+        "name": "flag tt"
+    },
+    {
+        "code": "0x1f1f9,0x1f1fb",
+        "name": "flag tv"
+    },
+    {
+        "code": "0x1f1f9,0x1f1fc",
+        "name": "flag tw"
+    },
+    {
+        "code": "0x1f1f9,0x1f1ff",
+        "name": "flag tz"
+    },
+    {
+        "code": "0x1f1fa,0x1f1e6",
+        "name": "flag ua"
+    },
+    {
+        "code": "0x1f1fa,0x1f1ec",
+        "name": "flag ug"
+    },
+    {
+        "code": "0x1f1fa,0x1f1f2",
+        "name": "flag um"
+    },
+    {
+        "code": "0x1f1fa,0x1f1f8",
+        "name": "flag us"
+    },
+    {
+        "code": "0x1f1fa,0x1f1f8",
+        "name": "us"
+    },
+    {
+        "code": "0x1f1fa,0x1f1fe",
+        "name": "flag uy"
+    },
+    {
+        "code": "0x1f1fa,0x1f1ff",
+        "name": "flag uz"
+    },
+    {
+        "code": "0x1f1fb,0x1f1e6",
+        "name": "flag va"
+    },
+    {
+        "code": "0x1f1fb,0x1f1e8",
+        "name": "flag vc"
+    },
+    {
+        "code": "0x1f1fb,0x1f1ea",
+        "name": "flag ve"
+    },
+    {
+        "code": "0x1f1fb,0x1f1ec",
+        "name": "flag vg"
+    },
+    {
+        "code": "0x1f1fb,0x1f1ee",
+        "name": "flag vi"
+    },
+    {
+        "code": "0x1f1fb,0x1f1f3",
+        "name": "flag vn"
+    },
+    {
+        "code": "0x1f1fb,0x1f1fa",
+        "name": "flag vu"
+    },
+    {
+        "code": "0x1f1fc,0x1f1eb",
+        "name": "flag wf"
+    },
+    {
+        "code": "0x1f1fc,0x1f1f8",
+        "name": "flag ws"
+    },
+    {
+        "code": "0x1f1fd,0x1f1f0",
+        "name": "flag xk"
+    },
+    {
+        "code": "0x1f1fe,0x1f1ea",
+        "name": "flag ye"
+    },
+    {
+        "code": "0x1f1fe,0x1f1f9",
+        "name": "flag yt"
+    },
+    {
+        "code": "0x1f1ff,0x1f1e6",
+        "name": "flag za"
+    },
+    {
+        "code": "0x1f1ff,0x1f1f2",
+        "name": "flag zm"
+    },
+    {
+        "code": "0x1f1ff,0x1f1fc",
+        "name": "flag zw"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f468,0x200d,0x1f466",
+        "name": "man man boy"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f468,0x200d,0x1f466,0x200d,0x1f466",
+        "name": "man man boy boy"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f468,0x200d,0x1f467",
+        "name": "man man girl"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f468,0x200d,0x1f467,0x200d,0x1f466",
+        "name": "man man girl boy"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f468,0x200d,0x1f467,0x200d,0x1f467",
+        "name": "man man girl girl"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f469,0x200d,0x1f466,0x200d,0x1f466",
+        "name": "man woman boy boy"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f469,0x200d,0x1f467",
+        "name": "man woman girl"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f469,0x200d,0x1f467,0x200d,0x1f466",
+        "name": "man woman girl boy"
+    },
+    {
+        "code": "0x1f468,0x200d,0x1f469,0x200d,0x1f467,0x200d,0x1f467",
+        "name": "man woman girl girl"
+    },
+    {
+        "code": "0x1f468,0x200d,0x2764,0xfe0f,0x200d,0x1f468",
+        "name": "man heart man"
+    },
+    {
+        "code": "0x1f468,0x200d,0x2764,0xfe0f,0x200d,0x1f48b,0x200d,0x1f468",
+        "name": "man kiss man"
+    },
+    {
+        "code": "0x1f469,0x200d,0x1f469,0x200d,0x1f466",
+        "name": "woman woman boy"
+    },
+    {
+        "code": "0x1f469,0x200d,0x1f469,0x200d,0x1f466,0x200d,0x1f466",
+        "name": "woman woman boy boy"
+    },
+    {
+        "code": "0x1f469,0x200d,0x1f469,0x200d,0x1f467",
+        "name": "woman woman girl"
+    },
+    {
+        "code": "0x1f469,0x200d,0x1f469,0x200d,0x1f467,0x200d,0x1f466",
+        "name": "woman woman girl boy"
+    },
+    {
+        "code": "0x1f469,0x200d,0x1f469,0x200d,0x1f467,0x200d,0x1f467",
+        "name": "woman woman girl girl"
+    },
+    {
+        "code": "0x1f469,0x200d,0x2764,0xfe0f,0x200d,0x1f469",
+        "name": "woman heart woman"
+    },
+    {
+        "code": "0x1f469,0x200d,0x2764,0xfe0f,0x200d,0x1f48b,0x200d,0x1f469",
+        "name": "woman kiss woman"
+    }
+]
