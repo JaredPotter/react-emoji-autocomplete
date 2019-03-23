@@ -72,6 +72,14 @@
     }
   }
 
-  .selected {
-      background: gray;
-  }
+ .input-text {
+     font-size: 25px;
+ }
+
+.suggestion{
+    cursor: pointer;
+}
+
+.selected {
+    background: gray;
+}
