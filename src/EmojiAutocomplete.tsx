@@ -138,7 +138,7 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
                 this.clear();
             }
             else if(e.keyCode === 8) { // Backspace.
-                debugger;
+                // debugger;
       
                 // Trim character off.
                 // const emojiQuery = this.state.currentEmojiQuery.substring(0, this.state.currentEmojiQuery.length - 1);
@@ -224,16 +224,18 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
         let isEmojiListVisable = this.state.isEmojiListVisable as Boolean;
         const value = this.state.currentValue;
         let newCurrentEmojiQuery = this.state.currentEmojiQuery;
+        const result = this.extractQueryStartEndIndices(this.inputTextRef.current, value);
+        let preceedingCharacter = '';
 
-        // If list is hidden, the next key is :, and 
-        // current value is empty OR the preceeding character is an empty string.
-        const preceedingCharacter = ' '; 
-        // debugger;
+        if(value !== '' && result.start > 0) {
+            preceedingCharacter = value[result.start - 1]
+        }
+
         if(!isEmojiListVisable && key === ':' && (value === '' || preceedingCharacter === ' ')) {
             isEmojiListVisable = true; // Display emoji suggestion list.
             newCurrentEmojiQuery = key; // Start new emoji query.
-            let query = this.getQuery(newCurrentEmojiQuery); // todo: get this to work correctly
-            this.updateSuggestionList(query);
+            
+            this.updateSuggestionList(''); // Search on empty string.
         }
         else {
             newCurrentEmojiQuery = newCurrentEmojiQuery + key; // Add normal character.
@@ -248,6 +250,7 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
     };
 
     handleClick = (index : number) => {
+        debugger;
         this.setState({
             selectedIndex: index
         });
@@ -256,6 +259,7 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
         const value = this.state.currentValue;
         const result = this.extractQueryStartEndIndices(element, value);
         const suggestion = this.state.suggestionList[this.state.selectedIndex];
+        debugger;
 
         this.selectEmoji(suggestion, result.start, result.end);
     };
@@ -281,8 +285,6 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
         const suggestionList = this.state.emojiList
             .filter((emoji) => emoji.name.toLowerCase().indexOf(searchQuery) !== -1)
             .slice(0, EMOJI_LIST_LENGTH);
-
-        debugger;
 
         this.setState({
             suggestionList: suggestionList
@@ -311,7 +313,6 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
     }
 
     render() {
-        // debugger;
         let suggestionList = null;
 
         if(this.state.isEmojiListVisable) {
@@ -345,17 +346,7 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
                     );
                 }
             });
-        }
-
-
-            // .map((emoji) => {
-                // const [code, name] = emoji.split('\t');
-                // const code = emoji.code;
-                // const name = emoji.name;
-                // const parsed_unicode_emoji = String.fromCodePoint.apply(null, code.split(','));
-                // return `<div><span class='symbol'>${parsed_unicode_emoji}</span>${name}</div`;
-                // return `<div class='emoji'><span class='symbol'>${parsed_unicode_emoji}</span><span class='name'>${name}</span></div>`;
-            // })        
+        } 
 
         return (
             <div>
@@ -371,17 +362,8 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
                     placeholder={ this.props.placeholder }
                     className="input-text"
                 />
-
-{/* data-bind="event: {'keydown': on_input_key_down, 'keyup': on_input_key_up},
-                             focus_on_keydown: true,
-                             hasFocus: blinking_cursor,
-                             paste_file: on_paste_files" */}
-
                 <div className="suggestion-list">
                     { suggestionList }
-                </div>
-                <div>
-
                 </div>
             </div>
         );
