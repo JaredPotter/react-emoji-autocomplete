@@ -17,8 +17,6 @@ export interface EmojiAutocompleteState {
 }
 
 export default class EmojiAutocomplete extends React.Component<EmojiAutocompleteProps, EmojiAutocompleteState> {
-    
-
     constructor(props : any) {
         super(props);
 
@@ -27,8 +25,9 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
         this.updateSuggestionList = this.updateSuggestionList.bind(this);
         this.handleMouseOver = this.handleMouseOver.bind(this);
         this.selectEmoji = this.selectEmoji.bind(this);
+        this.handleBlur = this.handleBlur.bind(this);
         this.clear = this.clear.bind(this);
-        // this.selectEmojiByIndex = this.selectEmojiByIndex.bind(this);
+        this.focus = this.focus.bind(this);
         
         this.state = {
             currentValue: '',
@@ -64,56 +63,36 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
 
         return query;
     };
-
-//     selectEmojiByIndex(index : number) {
-// const selectedSuggestion = this.state.suggestionList[this.state.selectedIndex];
-//     }
     
-    selectEmoji(value : string) {
-        debugger;
-        const selectedSuggestion = this.state.suggestionList[this.state.selectedIndex];
-        // const emojiCode = selectedSuggestion.code;
+    selectEmoji(suggestion : any, startIndex : number, endIndex : number) {
+        const value = this.state.currentValue;
+        const parsedUnicodeEmoji = String.fromCodePoint.apply(null, suggestion.code.split(','));
+        // const replacementLength = endIndex - startIndex;
+        // const replacementString = value.substr(startIndex, replacementLength); // ...
+        // const lastIndexOfReplacementString = value.lastIndexOf(replacementString);
 
-        // const lastIndex = value.lastIndexOf(';');
-        
-        const parsedUnicodeEmoji = String.fromCodePoint.apply(null, selectedSuggestion.code.split(','));
-        const lastColonIndex = value.lastIndexOf(':');
-        // const replacementString = value.substr(lastColonIndex, value.length); // wrong...
-        const replacementString = value.substr(lastColonIndex, value.length); // ...
-        const lastIndexOfReplacementString = value.lastIndexOf(replacementString);
-        // debugger;
-        const newValue = value.substring(0, lastIndexOfReplacementString) + 
+        const newValue = value.substring(0, startIndex) + 
                 parsedUnicodeEmoji + 
-                value.substring(lastIndexOfReplacementString + replacementString.length, value.length);
-
-        // const reverseReplacementString = replacementString.split('').reverse().join('');
-        // const reverseValue = value.split('').reverse().join('');
-        
-        // str = str.substring(0,pos) + otherchar + str.substring(pos+1)
-        // const newValueReverse = reverseValue.replace(reverseReplacementString, emojiCode); 
-
-        debugger;
-        // const newValue = newValueReverse.split('').reverse().join(''); // This isn't emoji friendly...
-        // const newNewValue = newValue.replace(emojiCode, parsedUnicodeEmoji);
-        // debugger;
-        // debugger;
+                value.substring(endIndex, value.length);
 
         this.setState({
             currentValue: newValue,
         });
 
         this.clear();
+        this.focus();
     };
 
     handleChange = (e : any) => {
         const value = e.target.value;
 
+        // Check for changes to emoji query.
+        const currentEmojiQuery = '';
+
         this.setState({
             currentValue: value,
-            // isEmojiListVisable: isEmojiListVisable,
+            currentEmojiQuery: currentEmojiQuery,
         });
-        
-        // e.preventDefault();
     };
 
     handleKeyDown = (e : any) => {
@@ -146,30 +125,99 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
 
                 e.preventDefault();
             }
-            else if(e.keyCode === 13) {
-                // debugger; // finsih?
-                // Confirming selection of the emoji.
+            else if(e.keyCode === 13 || e.keyCode === 9) { // Enter or Tab.
+                const element = e.target;
                 const value = this.state.currentValue;
+                const result = this.extractQueryStartEndIndices(element, value);
+                const suggestion = this.state.suggestionList[this.state.selectedIndex];
 
-                this.selectEmoji(value);
-            } 
+                this.selectEmoji(suggestion, result.start, result.end);
+                e.preventDefault();
+            }
+            else if(e.keyCode === 27 || e.keyCode === 32) { // Esc or Space.
+                this.clear();
+            }
             else if(e.keyCode === 8) { // Backspace.
-                // Trim character off.
-                const emojiQuery = this.state.currentEmojiQuery.substring(0, this.state.currentEmojiQuery.length - 1);
-                let isEmojiListVisable = this.state.isEmojiListVisable as Boolean;
                 debugger;
+      
+                // Trim character off.
+                // const emojiQuery = this.state.currentEmojiQuery.substring(0, this.state.currentEmojiQuery.length - 1);
+                // let isEmojiListVisable = this.state.isEmojiListVisable as Boolean;
+                // debugger;
 
-                if(emojiQuery === '') {
-                    isEmojiListVisable = false; // If last :, hide dropdown.
+                // if(emojiQuery === '') {
+                //     isEmojiListVisable = false; // If last :, hide dropdown.
+                // }
+
+                // this.setState({
+                //     currentEmojiQuery: emojiQuery,
+                //     isEmojiListVisable: isEmojiListVisable
+                // });
+
+                // Potentially resume emoji.
+
+            }
+        }
+        else {
+            if(e.keyCode === 8) { // Backspace.
+                const element = e.target;
+                const value = this.state.currentValue;
+                const query = this.extractQuery(element, value);
+                
+                if(element.startPosition === element.endPosition) {
+                    this.updateSuggestionList(query);
+
+                    this.setState({
+                        isEmojiListVisable: true
+                    });                    
                 }
-
-                this.setState({
-                    currentEmojiQuery: emojiQuery,
-                    isEmojiListVisable: isEmojiListVisable
-                });
+                else {
+                    debugger;
+                }                      
             }
         }
     };
+
+    extractQueryStartEndIndices(element : any, value : any) {
+        let result = {
+            start: -1,
+            end: -1,
+        };
+
+        const startPosition = element.selectionStart;
+        const indices = value.split('').map((e : string, i : any) => {
+                return e === ':' ? i : ''
+            })
+            .filter(String)
+            .sort((a : number, b : number) => { return (a as number) - (b as number); });
+        result.end = startPosition;
+        const realPosition = startPosition - 1;
+        const length = indices.length;
+        let index = 0;
+
+        while(index < length) {
+            const tempValue = indices[index] as number;
+
+            if(tempValue > realPosition) {
+                break;
+            }
+            else {
+                result.start = tempValue; // Save value.
+                index++;
+            }
+        }        
+
+        return result;
+    };
+
+    extractQuery(element : any, value : any) {
+        let indices = this.extractQueryStartEndIndices(element, value);
+
+        let query = value.substring(indices.start, indices.end);
+        query = this.getQuery(query);
+
+        return query;
+    }
 
     handleKeyPress = (e : any) => {
         const key = e.key;
@@ -184,13 +232,13 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
         if(!isEmojiListVisable && key === ':' && (value === '' || preceedingCharacter === ' ')) {
             isEmojiListVisable = true; // Display emoji suggestion list.
             newCurrentEmojiQuery = key; // Start new emoji query.
-            let query = this.getQuery(newCurrentEmojiQuery);
-            this.updateSuggestionList(query);                           
+            let query = this.getQuery(newCurrentEmojiQuery); // todo: get this to work correctly
+            this.updateSuggestionList(query);
         }
         else {
             newCurrentEmojiQuery = newCurrentEmojiQuery + key; // Add normal character.
-            let query = this.getQuery(newCurrentEmojiQuery);
-            this.updateSuggestionList(query);                 
+            let query = this.getQuery(newCurrentEmojiQuery); // todo: get this to work correctly
+            this.updateSuggestionList(query);
         }        
 
         this.setState({
@@ -204,7 +252,12 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
             selectedIndex: index
         });
 
-        this.selectEmoji(this.state.currentValue);
+        const element = this.inputTextRef.current;
+        const value = this.state.currentValue;
+        const result = this.extractQueryStartEndIndices(element, value);
+        const suggestion = this.state.suggestionList[this.state.selectedIndex];
+
+        this.selectEmoji(suggestion, result.start, result.end);
     };
 
     handleMouseOver = (index : number) => {
@@ -229,29 +282,33 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
             .filter((emoji) => emoji.name.toLowerCase().indexOf(searchQuery) !== -1)
             .slice(0, EMOJI_LIST_LENGTH);
 
+        debugger;
+
         this.setState({
             suggestionList: suggestionList
         });
     }
 
+    handleBlur = (e : any) => {
+        this.clear();
+    };
+
     clear() {
-        // todo clear.
         this.setState({
             isEmojiListVisable: false,
             suggestionList: [],
             selectedIndex: 0,
-            // currentValue: newValue,
         });
+    };
 
+    focus() {
         // Re-focus.
         const node = this.inputTextRef.current;
 
         if (node) {
           node.focus();
-        }        
-
-        // let balh = this.inputText
-    };
+        }
+    }
 
     render() {
         // debugger;
@@ -304,14 +361,15 @@ export default class EmojiAutocomplete extends React.Component<EmojiAutocomplete
             <div>
                 {/* <span> { this.state.currentValue } </span> */}
                 <input 
+                    ref={ this.inputTextRef }
                     value={ this.state.currentValue }
                     onChange={ this.handleChange }
                     // onInput={ this.handleChange }
                     onKeyPress={ this.handleKeyPress }
                     onKeyDown={ this.handleKeyDown }
+                    onBlur={ this.handleBlur }
                     placeholder={ this.props.placeholder }
                     className="input-text"
-                    ref={ this.inputTextRef }
                 />
 
 {/* data-bind="event: {'keydown': on_input_key_down, 'keyup': on_input_key_up},

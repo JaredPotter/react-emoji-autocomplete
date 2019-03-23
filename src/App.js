@@ -7,7 +7,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <EmojiAutocomplete/>
+        <EmojiAutocomplete
+          placeholder="Type some text..."
+        />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
